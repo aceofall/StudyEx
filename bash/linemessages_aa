@@ -1,0 +1,11 @@
+Mar  9 07:55:30 tako-server rsyslogd: [origin software="rsyslogd" swVersion="4.2.0" x-pid="1935" x-info="http://www.rsyslog.com"] rsyslogd was HUPed, type 'lightweight'.
+Mar 10 07:40:16 tako-server rsyslogd: [origin software="rsyslogd" swVersion="4.2.0" x-pid="1935" x-info="http://www.rsyslog.com"] rsyslogd was HUPed, type 'lightweight'.
+Mar 11 07:57:54 tako-server rsyslogd: [origin software="rsyslogd" swVersion="4.2.0" x-pid="1935" x-info="http://www.rsyslog.com"] rsyslogd was HUPed, type 'lightweight'.
+Mar 12 07:45:51 tako-server rsyslogd: [origin software="rsyslogd" swVersion="4.2.0" x-pid="1935" x-info="http://www.rsyslog.com"] rsyslogd was HUPed, type 'lightweight'.
+Mar 12 07:57:21 tako-server sudo: pam_sm_authenticate: Called
+Mar 12 07:57:21 tako-server sudo: pam_sm_authenticate: username = [Q301000080]
+Mar 13 08:07:42 tako-server rsyslogd: [origin software="rsyslogd" swVersion="4.2.0" x-pid="1935" x-info="http://www.rsyslog.com"] rsyslogd was HUPed, type 'lightweight'.
+Mar 13 09:02:53 tako-server sudo: pam_sm_authenticate: Called
+Mar 13 09:02:53 tako-server sudo: pam_sm_authenticate: username = [Q301000080]
+Mar 13 10:10:50 tako-server sudo: pam_sm_authenticate: Called
+Mar 13 10:10:50 tako-server sudo: pam_sm_authenticate: username = [Q301000080]

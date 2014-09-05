@@ -1,0 +1,9 @@
+function A() {
+	echo "function A"
+}
+function B() {
+	echo "function B"
+}
+function C() {
+	echo "function C"
+}

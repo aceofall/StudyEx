@@ -1,0 +1,5 @@
+# My awk script file
+# script name is awkcommand
+/동/{print "안녕하세요! " $1, $2"님"}
+/성계/{print NR "번 라인: " $0}; /^정/{print "'정'으로 시작되는 이름은: " $1, $2}
+# end of script

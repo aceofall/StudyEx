@@ -1,0 +1,10 @@
+{
+	if ($1 ~ /Jane/)
+	{
+		next
+	}
+	else
+	{
+		print
+	}
+}

@@ -1,0 +1,2 @@
+err.c: In function ‘main’:
+err.c:5: error: expected expression before ‘%’ token
