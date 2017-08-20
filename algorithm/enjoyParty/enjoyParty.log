@@ -1,0 +1,262 @@
+[DEBUG|enjoyParty.py:48] 2017-08-14 10:51:52,278 > [enjoyParty.py][solve][68]: argFile: input.txt
+[DEBUG|enjoyParty.py:48] 2017-08-14 10:51:52,281 > [enjoyParty.py][parseInput][109]: first = {'fishing', 'gardening', 'swimming', 'fishing'}
+[DEBUG|enjoyParty.py:48] 2017-08-14 10:51:52,283 > [enjoyParty.py][parseInput][116]:  {'fishing', 'gardening', 'swimming', 'fishing'}
+
+[DEBUG|enjoyParty.py:48] 2017-08-14 10:51:52,285 > [enjoyParty.py][parseInput][109]: second = {'hunting', 'fishing', 'fishing', 'biting'}
+[DEBUG|enjoyParty.py:48] 2017-08-14 10:51:52,288 > [enjoyParty.py][parseInput][116]:  {'hunting', 'fishing', 'fishing', 'biting'}
+
+[DEBUG|enjoyParty.py:48] 2017-08-14 10:52:21,040 > [enjoyParty.py][solve][68]: argFile: input.txt
+[DEBUG|enjoyParty.py:48] 2017-08-14 10:52:21,044 > [enjoyParty.py][parseInput][109]: first = {'fishing', 'gardening', 'swimming', 'fishing'}
+[DEBUG|enjoyParty.py:48] 2017-08-14 10:52:21,047 > [enjoyParty.py][parseInput][116]:  {'fishing', 'gardening', 'swimming', 'fishing'}
+
+[DEBUG|enjoyParty.py:48] 2017-08-14 10:52:21,053 > [enjoyParty.py][parseInput][109]: second = {'hunting', 'fishing', 'fishing', 'biting'}
+[DEBUG|enjoyParty.py:48] 2017-08-14 10:52:21,057 > [enjoyParty.py][parseInput][116]:  {'hunting', 'fishing', 'fishing', 'biting'}
+
+[DEBUG|enjoyParty.py:48] 2017-08-14 10:54:56,190 > [enjoyParty.py][solve][68]: argFile: input.txt
+[DEBUG|enjoyParty.py:48] 2017-08-14 10:54:56,193 > [enjoyParty.py][parseInput][109]: first = {'fishing', 'gardening', 'swimming', 'fishing'}
+[DEBUG|enjoyParty.py:48] 2017-08-14 10:54:56,196 > [enjoyParty.py][parseInput][116]:  {'fishing', 'gardening', 'swimming', 'fishing'}
+
+[DEBUG|enjoyParty.py:48] 2017-08-14 10:54:56,201 > [enjoyParty.py][parseInput][109]: second = {'hunting', 'fishing', 'fishing', 'biting'}
+[DEBUG|enjoyParty.py:48] 2017-08-14 10:54:56,204 > [enjoyParty.py][parseInput][116]:  {'hunting', 'fishing', 'fishing', 'biting'}
+
+[DEBUG|enjoyParty.py:48] 2017-08-14 10:55:30,498 > [enjoyParty.py][solve][68]: argFile: input.txt
+[DEBUG|enjoyParty.py:48] 2017-08-14 10:55:30,501 > [enjoyParty.py][parseInput][109]: first = {'fishing', 'gardening', 'swimming', 'fishing'}
+[DEBUG|enjoyParty.py:48] 2017-08-14 10:55:30,504 > [enjoyParty.py][parseInput][116]:  {'fishing', 'gardening', 'swimming', 'fishing'}
+
+[DEBUG|enjoyParty.py:48] 2017-08-14 10:55:30,508 > [enjoyParty.py][parseInput][109]: second = {'hunting', 'fishing', 'fishing', 'biting'}
+[DEBUG|enjoyParty.py:48] 2017-08-14 10:55:30,512 > [enjoyParty.py][parseInput][116]:  {'hunting', 'fishing', 'fishing', 'biting'}
+
+[DEBUG|enjoyParty.py:48] 2017-08-14 11:00:46,549 > [enjoyParty.py][solve][68]: argFile: input.txt
+[DEBUG|enjoyParty.py:48] 2017-08-14 11:00:46,552 > [enjoyParty.py][parseInput][109]: first = {'fishing', 'gardening', 'swimming', 'fishing'}
+[DEBUG|enjoyParty.py:48] 2017-08-14 11:00:46,555 > [enjoyParty.py][parseInput][116]:  {'fishing', 'gardening', 'swimming', 'fishing'}
+
+[DEBUG|enjoyParty.py:48] 2017-08-14 11:00:46,559 > [enjoyParty.py][parseInput][109]: second = {'hunting', 'fishing', 'fishing', 'biting'}
+[DEBUG|enjoyParty.py:48] 2017-08-14 11:00:46,562 > [enjoyParty.py][parseInput][116]:  {'hunting', 'fishing', 'fishing', 'biting'}
+
+[DEBUG|enjoyParty.py:48] 2017-08-14 11:01:23,596 > [enjoyParty.py][solve][68]: argFile: input.txt
+[DEBUG|enjoyParty.py:48] 2017-08-14 11:01:23,599 > [enjoyParty.py][parseInput][109]: first = {'fishing', 'gardening', 'swimming', 'fishing'}
+[DEBUG|enjoyParty.py:48] 2017-08-14 11:01:23,603 > [enjoyParty.py][parseInput][116]:  {fishing, gardening, swimming, fishing}
+
+[DEBUG|enjoyParty.py:48] 2017-08-14 11:01:23,608 > [enjoyParty.py][parseInput][109]: second = {'hunting', 'fishing', 'fishing', 'biting'}
+[DEBUG|enjoyParty.py:48] 2017-08-14 11:01:23,611 > [enjoyParty.py][parseInput][116]:  {hunting, fishing, fishing, biting}
+
+[DEBUG|enjoyParty.py:48] 2017-08-14 11:01:38,217 > [enjoyParty.py][solve][68]: argFile: input.txt
+[DEBUG|enjoyParty.py:48] 2017-08-14 11:01:38,222 > [enjoyParty.py][parseInput][109]: first = {'fishing', 'gardening', 'swimming', 'fishing'}
+[DEBUG|enjoyParty.py:48] 2017-08-14 11:01:38,224 > [enjoyParty.py][parseInput][116]:  fishing, gardening, swimming, fishing
+
+[DEBUG|enjoyParty.py:48] 2017-08-14 11:01:38,230 > [enjoyParty.py][parseInput][109]: second = {'hunting', 'fishing', 'fishing', 'biting'}
+[DEBUG|enjoyParty.py:48] 2017-08-14 11:01:38,233 > [enjoyParty.py][parseInput][116]:  hunting, fishing, fishing, biting
+
+[DEBUG|enjoyParty.py:48] 2017-08-14 11:19:39,041 > [enjoyParty.py][solve][68]: argFile: input2.txt
+[DEBUG|enjoyParty.py:48] 2017-08-14 11:19:39,059 > [enjoyParty.py][parseInput][109]: first = {'t',' o',' p',' c',' o',' d',' e',' r',' s',' i',' n',' g',' l',' e',' r',' o',' u',' n',' d',' m',' a',' t',' c',' h',' f',' o',' u',' r',' n',' i'}
+[DEBUG|enjoyParty.py:48] 2017-08-14 11:19:39,062 > [enjoyParty.py][parseInput][116]:  t, o, p, c, o, d, e, r, s, i, n, g, l, e, r, o, u, n, d, m, a, t, c, h, f, o, u, r, n, i
+
+[DEBUG|enjoyParty.py:48] 2017-08-14 11:19:39,064 > [enjoyParty.py][parseInput][109]: second = {'n',' e',' f',' o',' u',' r',' j',' a',' n',' u',' a',' r',' y',' t',' w',' e',' n',' t',' y',' t',' w',' o',' s',' a',' t',' u',' r',' d',' a',' y'}
+[DEBUG|enjoyParty.py:48] 2017-08-14 11:19:39,069 > [enjoyParty.py][parseInput][116]:  n, e, f, o, u, r, j, a, n, u, a, r, y, t, w, e, n, t, y, t, w, o, s, a, t, u, r, d, a, y
+
+[DEBUG|enjoyParty.py:48] 2017-08-14 11:53:21,796 > [enjoyParty.py][solve][68]: argFile: input2.txt
+[DEBUG|enjoyParty.py:48] 2017-08-14 11:53:21,799 > [enjoyParty.py][parseInput][110]: first = {'t',' o',' p',' c',' o',' d',' e',' r',' s',' i',' n',' g',' l',' e',' r',' o',' u',' n',' d',' m',' a',' t',' c',' h',' f',' o',' u',' r',' n',' i'}
+[DEBUG|enjoyParty.py:48] 2017-08-14 11:53:21,801 > [enjoyParty.py][parseInput][117]:  t, o, p, c, o, d, e, r, s, i, n, g, l, e, r, o, u, n, d, m, a, t, c, h, f, o, u, r, n, i
+
+[DEBUG|enjoyParty.py:48] 2017-08-14 11:53:21,804 > [enjoyParty.py][parseInput][110]: second = {'n',' e',' f',' o',' u',' r',' j',' a',' n',' u',' a',' r',' y',' t',' w',' e',' n',' t',' y',' t',' w',' o',' s',' a',' t',' u',' r',' d',' a',' y'}
+[DEBUG|enjoyParty.py:48] 2017-08-14 11:53:21,808 > [enjoyParty.py][parseInput][117]:  n, e, f, o, u, r, j, a, n, u, a, r, y, t, w, e, n, t, y, t, w, o, s, a, t, u, r, d, a, y
+
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:11:15,028 > [enjoyParty.py][solve][68]: argFile: input2.txt
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:11:15,031 > [enjoyParty.py][parseInput][111]: first = {'t',' o',' p',' c',' o',' d',' e',' r',' s',' i',' n',' g',' l',' e',' r',' o',' u',' n',' d',' m',' a',' t',' c',' h',' f',' o',' u',' r',' n',' i'}
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:11:15,033 > [enjoyParty.py][parseInput][118]:  t, o, p, c, o, d, e, r, s, i, n, g, l, e, r, o, u, n, d, m, a, t, c, h, f, o, u, r, n, i
+
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:11:15,038 > [enjoyParty.py][parseInput][111]: second = {'n',' e',' f',' o',' u',' r',' j',' a',' n',' u',' a',' r',' y',' t',' w',' e',' n',' t',' y',' t',' w',' o',' s',' a',' t',' u',' r',' d',' a',' y'}
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:11:15,040 > [enjoyParty.py][parseInput][118]:  n, e, f, o, u, r, j, a, n, u, a, r, y, t, w, e, n, t, y, t, w, o, s, a, t, u, r, d, a, y
+
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:13:17,086 > [enjoyParty.py][solve][68]: argFile: input2.txt
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:13:17,088 > [enjoyParty.py][parseInput][111]: first = {'t',' o',' p',' c',' o',' d',' e',' r',' s',' i',' n',' g',' l',' e',' r',' o',' u',' n',' d',' m',' a',' t',' c',' h',' f',' o',' u',' r',' n',' i'}
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:13:17,094 > [enjoyParty.py][parseInput][118]:  t, o, p, c, o, d, e, r, s, i, n, g, l, e, r, o, u, n, d, m, a, t, c, h, f, o, u, r, n, i
+
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:13:17,099 > [enjoyParty.py][parseInput][111]: second = {'n',' e',' f',' o',' u',' r',' j',' a',' n',' u',' a',' r',' y',' t',' w',' e',' n',' t',' y',' t',' w',' o',' s',' a',' t',' u',' r',' d',' a',' y'}
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:13:17,103 > [enjoyParty.py][parseInput][118]:  n, e, f, o, u, r, j, a, n, u, a, r, y, t, w, e, n, t, y, t, w, o, s, a, t, u, r, d, a, y
+
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:21:14,329 > [enjoyParty.py][solve][68]: argFile: input2.txt
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:21:14,334 > [enjoyParty.py][parseInput][111]: first = {'t',' o',' p',' c',' o',' d',' e',' r',' s',' i',' n',' g',' l',' e',' r',' o',' u',' n',' d',' m',' a',' t',' c',' h',' f',' o',' u',' r',' n',' i'}
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:21:14,337 > [enjoyParty.py][parseInput][118]:  t, o, p, c, o, d, e, r, s, i, n, g, l, e, r, o, u, n, d, m, a, t, c, h, f, o, u, r, n, i
+
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:21:14,350 > [enjoyParty.py][parseInput][111]: second = {'n',' e',' f',' o',' u',' r',' j',' a',' n',' u',' a',' r',' y',' t',' w',' e',' n',' t',' y',' t',' w',' o',' s',' a',' t',' u',' r',' d',' a',' y'}
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:21:14,369 > [enjoyParty.py][parseInput][118]:  n, e, f, o, u, r, j, a, n, u, a, r, y, t, w, e, n, t, y, t, w, o, s, a, t, u, r, d, a, y
+
+[INFO|enjoyParty.py:52] 2017-08-14 13:21:14,387 > ## Highest Item:  n
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:21:29,852 > [enjoyParty.py][solve][68]: argFile: input.txt
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:21:29,857 > [enjoyParty.py][parseInput][111]: first = {'fishing', 'gardening', 'swimming', 'fishing'}
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:21:29,860 > [enjoyParty.py][parseInput][118]:  fishing, gardening, swimming, fishing
+
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:21:29,864 > [enjoyParty.py][parseInput][111]: second = {'hunting', 'fishing', 'fishing', 'biting'}
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:21:29,867 > [enjoyParty.py][parseInput][118]:  hunting, fishing, fishing, biting
+
+[INFO|enjoyParty.py:52] 2017-08-14 13:21:29,868 > ## Highest Item:  fishing
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:22:39,793 > [enjoyParty.py][solve][68]: argFile: input.txt
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:22:39,796 > [enjoyParty.py][parseInput][112]: first = {'fishing', 'gardening', 'swimming', 'fishing'}
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:22:39,800 > [enjoyParty.py][parseInput][119]:  fishing, gardening, swimming, fishing
+
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:22:39,807 > [enjoyParty.py][parseInput][112]: second = {'hunting', 'fishing', 'fishing', 'biting'}
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:22:39,811 > [enjoyParty.py][parseInput][119]:  hunting, fishing, fishing, biting
+
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:22:39,816 > [enjoyParty.py][solve][92]:  fishing3
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:22:39,819 > [enjoyParty.py][solve][92]:  hunting1
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:22:39,822 > [enjoyParty.py][solve][92]:  gardening1
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:22:39,827 > [enjoyParty.py][solve][92]:  swimming1
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:22:39,831 > [enjoyParty.py][solve][92]:  biting
+1
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:22:39,835 > [enjoyParty.py][solve][92]:  fishing
+1
+[INFO|enjoyParty.py:52] 2017-08-14 13:22:39,835 > ## Highest Item:  fishing
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:23:07,652 > [enjoyParty.py][solve][68]: argFile: input.txt
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:23:07,655 > [enjoyParty.py][parseInput][112]: first = {'fishing', 'gardening', 'swimming', 'fishing'}
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:23:07,659 > [enjoyParty.py][parseInput][119]:  fishing, gardening, swimming, fishing
+
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:23:07,663 > [enjoyParty.py][parseInput][112]: second = {'hunting', 'fishing', 'fishing', 'biting'}
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:23:07,667 > [enjoyParty.py][parseInput][119]:  hunting, fishing, fishing, biting
+
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:23:07,670 > [enjoyParty.py][solve][92]:  hunting : 1
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:23:07,672 > [enjoyParty.py][solve][92]:  fishing : 3
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:23:07,676 > [enjoyParty.py][solve][92]:  gardening : 1
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:23:07,680 > [enjoyParty.py][solve][92]:  swimming : 1
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:23:07,681 > [enjoyParty.py][solve][92]:  biting
+ : 1
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:23:07,686 > [enjoyParty.py][solve][92]:  fishing
+ : 1
+[INFO|enjoyParty.py:52] 2017-08-14 13:23:07,688 > ## Highest Item:  fishing
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:24:34,108 > [enjoyParty.py][solve][68]: argFile: input.txt
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:24:34,111 > [enjoyParty.py][parseInput][111]: first = {'fishing', 'gardening', 'swimming', 'fishing'}
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:24:34,113 > [enjoyParty.py][parseInput][118]:  fishing, gardening, swimming, fishing
+
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:24:34,118 > [enjoyParty.py][parseInput][111]: second = {'hunting', 'fishing', 'fishing', 'biting'}
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:24:34,121 > [enjoyParty.py][parseInput][118]:  hunting, fishing, fishing, biting
+
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:24:34,125 > [enjoyParty.py][solve][91]:  hunting : 1
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:24:34,127 > [enjoyParty.py][solve][91]:  fishing : 3
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:24:34,129 > [enjoyParty.py][solve][91]:  gardening : 1
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:24:34,132 > [enjoyParty.py][solve][91]:  swimming : 1
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:24:34,134 > [enjoyParty.py][solve][91]:  biting
+ : 1
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:24:34,140 > [enjoyParty.py][solve][91]:  fishing
+ : 1
+[INFO|enjoyParty.py:52] 2017-08-14 13:24:34,141 > ## Highest Item:  fishing
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:27:13,625 > [enjoyParty.py][solve][68]: argFile: input.txt
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:27:13,631 > [enjoyParty.py][parseInput][111]: first = {'fishing', 'gardening', 'swimming', 'fishing'}
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:27:13,634 > [enjoyParty.py][parseInput][119]: fishing, gardening, swimming, fishing
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:27:13,638 > [enjoyParty.py][parseInput][111]: second = {'hunting', 'fishing', 'fishing', 'biting'}
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:27:13,641 > [enjoyParty.py][parseInput][119]: hunting, fishing, fishing, biting
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:27:13,644 > [enjoyParty.py][solve][91]: fishing : 1
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:27:13,647 > [enjoyParty.py][solve][91]: hunting : 1
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:27:13,651 > [enjoyParty.py][solve][91]:  fishing : 3
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:27:13,652 > [enjoyParty.py][solve][91]:  gardening : 1
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:27:13,655 > [enjoyParty.py][solve][91]:  swimming : 1
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:27:13,657 > [enjoyParty.py][solve][91]:  biting : 1
+[INFO|enjoyParty.py:52] 2017-08-14 13:27:13,659 > ## Highest Item:  fishing
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:27:59,024 > [enjoyParty.py][solve][68]: argFile: input.txt
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:27:59,028 > [enjoyParty.py][parseInput][111]: first = {'fishing', 'gardening', 'swimming', 'fishing'}
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:27:59,032 > [enjoyParty.py][parseInput][119]: fishing, gardening, swimming, fishing
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:32:10,785 > [enjoyParty.py][solve][68]: argFile: input.txt
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:32:10,788 > [enjoyParty.py][parseInput][111]: first = {'fishing', 'gardening', 'swimming', 'fishing'}
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:32:10,791 > [enjoyParty.py][parseInput][119]: fishing, gardening, swimming, fishing
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:32:10,792 > [enjoyParty.py][parseInput][111]: second = {'hunting', 'fishing', 'fishing', 'biting'}
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:32:10,795 > [enjoyParty.py][parseInput][119]: hunting, fishing, fishing, biting
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:32:10,798 > [enjoyParty.py][solve][91]: hunting : 1
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:32:10,799 > [enjoyParty.py][solve][91]: fishing : 4
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:32:10,801 > [enjoyParty.py][solve][91]: gardening : 1
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:32:10,803 > [enjoyParty.py][solve][91]: swimming : 1
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:32:10,804 > [enjoyParty.py][solve][91]: biting : 1
+[INFO|enjoyParty.py:52] 2017-08-14 13:32:10,806 > ## Highest Item: fishing
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:35:38,559 > [enjoyParty.py][solve][68]: argFile: input.txt
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:35:38,562 > [enjoyParty.py][parseInput][112]: first = {'fishing', 'gardening', 'swimming', 'fishing'}
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:35:38,564 > [enjoyParty.py][parseInput][120]: fishing, gardening, swimming, fishing
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:35:38,567 > [enjoyParty.py][parseInput][112]: second = {'hunting', 'fishing', 'fishing', 'biting'}
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:35:38,569 > [enjoyParty.py][parseInput][120]: hunting, fishing, fishing, biting
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:35:38,572 > [enjoyParty.py][solve][92]: hunting : 1
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:35:38,574 > [enjoyParty.py][solve][92]: fishing : 4
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:35:38,578 > [enjoyParty.py][solve][92]: gardening : 1
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:35:38,580 > [enjoyParty.py][solve][92]: swimming : 1
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:35:38,583 > [enjoyParty.py][solve][92]: biting : 1
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:36:01,486 > [enjoyParty.py][solve][68]: argFile: input.txt
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:36:01,489 > [enjoyParty.py][parseInput][112]: first = {'fishing', 'gardening', 'swimming', 'fishing'}
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:36:01,493 > [enjoyParty.py][parseInput][120]: fishing, gardening, swimming, fishing
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:36:01,496 > [enjoyParty.py][parseInput][112]: second = {'hunting', 'fishing', 'fishing', 'biting'}
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:36:01,499 > [enjoyParty.py][parseInput][120]: hunting, fishing, fishing, biting
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:36:01,500 > [enjoyParty.py][solve][92]: hunting : 1
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:36:01,504 > [enjoyParty.py][solve][92]: fishing : 4
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:36:01,506 > [enjoyParty.py][solve][92]: gardening : 1
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:36:01,510 > [enjoyParty.py][solve][92]: swimming : 1
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:36:01,512 > [enjoyParty.py][solve][92]: biting : 1
+[INFO|enjoyParty.py:52] 2017-08-14 13:36:01,513 > ## Highest Item: fishing => count: 4
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:37:30,236 > [enjoyParty.py][solve][68]: argFile: input.txt
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:37:30,239 > [enjoyParty.py][parseInput][112]: first = {'fishing', 'gardening', 'swimming', 'fishing'}
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:37:30,241 > [enjoyParty.py][parseInput][120]: fishing, gardening, swimming, fishing
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:37:30,244 > [enjoyParty.py][parseInput][112]: second = {'hunting', 'fishing', 'fishing', 'biting'}
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:37:30,247 > [enjoyParty.py][parseInput][120]: hunting, fishing, fishing, biting
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:37:30,251 > [enjoyParty.py][solve][92]: fishing : 4
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:37:30,253 > [enjoyParty.py][solve][92]: hunting : 1
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:37:30,257 > [enjoyParty.py][solve][92]: gardening : 1
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:37:30,259 > [enjoyParty.py][solve][92]: swimming : 1
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:37:30,263 > [enjoyParty.py][solve][92]: biting : 1
+[INFO|enjoyParty.py:52] 2017-08-14 13:37:30,263 > ## Most favorite Item: fishing => count: 4
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:37:38,289 > [enjoyParty.py][solve][68]: argFile: input2.txt
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:37:38,292 > [enjoyParty.py][parseInput][112]: first = {'t',' o',' p',' c',' o',' d',' e',' r',' s',' i',' n',' g',' l',' e',' r',' o',' u',' n',' d',' m',' a',' t',' c',' h',' f',' o',' u',' r',' n',' i'}
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:37:38,296 > [enjoyParty.py][parseInput][120]: t, o, p, c, o, d, e, r, s, i, n, g, l, e, r, o, u, n, d, m, a, t, c, h, f, o, u, r, n, i
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:37:38,299 > [enjoyParty.py][parseInput][112]: second = {'n',' e',' f',' o',' u',' r',' j',' a',' n',' u',' a',' r',' y',' t',' w',' e',' n',' t',' y',' t',' w',' o',' s',' a',' t',' u',' r',' d',' a',' y'}
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:37:38,302 > [enjoyParty.py][parseInput][120]: n, e, f, o, u, r, j, a, n, u, a, r, y, t, w, e, n, t, y, t, w, o, s, a, t, u, r, d, a, y
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:37:38,307 > [enjoyParty.py][solve][92]: n : 6
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:37:38,311 > [enjoyParty.py][solve][92]: t : 6
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:37:38,313 > [enjoyParty.py][solve][92]: e : 4
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:37:38,316 > [enjoyParty.py][solve][92]: o : 6
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:37:38,320 > [enjoyParty.py][solve][92]: p : 1
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:37:38,323 > [enjoyParty.py][solve][92]: f : 2
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:37:38,327 > [enjoyParty.py][solve][92]: c : 2
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:37:38,331 > [enjoyParty.py][solve][92]: u : 5
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:37:38,334 > [enjoyParty.py][solve][92]: d : 3
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:37:38,337 > [enjoyParty.py][solve][92]: r : 6
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:37:38,340 > [enjoyParty.py][solve][92]: j : 1
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:37:38,345 > [enjoyParty.py][solve][92]: a : 5
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:37:38,348 > [enjoyParty.py][solve][92]: s : 2
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:37:38,351 > [enjoyParty.py][solve][92]: i : 2
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:37:38,355 > [enjoyParty.py][solve][92]: g : 1
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:37:38,358 > [enjoyParty.py][solve][92]: l : 1
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:37:38,361 > [enjoyParty.py][solve][92]: y : 3
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:37:38,365 > [enjoyParty.py][solve][92]: w : 2
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:37:38,368 > [enjoyParty.py][solve][92]: m : 1
+[DEBUG|enjoyParty.py:48] 2017-08-14 13:37:38,371 > [enjoyParty.py][solve][92]: h : 1
+[INFO|enjoyParty.py:52] 2017-08-14 13:37:38,371 > ## Most favorite Item: n => count: 6
+[DEBUG|enjoyParty.py:48] 2017-08-20 14:12:05,800 > [enjoyParty.py][solve][68]: argFile: input.txt
+[DEBUG|enjoyParty.py:48] 2017-08-20 14:12:05,802 > [enjoyParty.py][parseInput][112]: first = {'fishing', 'gardening', 'swimming', 'fishing'}
+[DEBUG|enjoyParty.py:48] 2017-08-20 14:12:05,804 > [enjoyParty.py][parseInput][120]: fishing, gardening, swimming, fishing
+[DEBUG|enjoyParty.py:48] 2017-08-20 14:12:05,805 > [enjoyParty.py][parseInput][112]: second = {'hunting', 'fishing', 'fishing', 'biting'}
+[DEBUG|enjoyParty.py:48] 2017-08-20 14:12:05,807 > [enjoyParty.py][parseInput][120]: hunting, fishing, fishing, biting
+[DEBUG|enjoyParty.py:48] 2017-08-20 14:12:05,808 > [enjoyParty.py][solve][92]: biting : 1
+[DEBUG|enjoyParty.py:48] 2017-08-20 14:12:05,810 > [enjoyParty.py][solve][92]: gardening : 1
+[DEBUG|enjoyParty.py:48] 2017-08-20 14:12:05,811 > [enjoyParty.py][solve][92]: fishing : 4
+[DEBUG|enjoyParty.py:48] 2017-08-20 14:12:05,813 > [enjoyParty.py][solve][92]: hunting : 1
+[DEBUG|enjoyParty.py:48] 2017-08-20 14:12:05,814 > [enjoyParty.py][solve][92]: swimming : 1
+[INFO|enjoyParty.py:52] 2017-08-20 14:12:05,816 > ## Most favorite Item: fishing => count: 4
+[DEBUG|enjoyParty.py:48] 2017-08-20 14:13:03,520 > [enjoyParty.py][solve][68]: argFile: input2.txt
+[DEBUG|enjoyParty.py:48] 2017-08-20 14:13:03,522 > [enjoyParty.py][parseInput][112]: first = {'t',' o',' p',' c',' o',' d',' e',' r',' s',' i',' n',' g',' l',' e',' r',' o',' u',' n',' d',' m',' a',' t',' c',' h',' f',' o',' u',' r',' n',' i'}
+[DEBUG|enjoyParty.py:48] 2017-08-20 14:13:03,524 > [enjoyParty.py][parseInput][120]: t, o, p, c, o, d, e, r, s, i, n, g, l, e, r, o, u, n, d, m, a, t, c, h, f, o, u, r, n, i
+[DEBUG|enjoyParty.py:48] 2017-08-20 14:13:03,525 > [enjoyParty.py][parseInput][112]: second = {'n',' e',' f',' o',' u',' r',' j',' a',' n',' u',' a',' r',' y',' t',' w',' e',' n',' t',' y',' t',' w',' o',' s',' a',' t',' u',' r',' d',' a',' y'}
+[DEBUG|enjoyParty.py:48] 2017-08-20 14:13:03,526 > [enjoyParty.py][parseInput][120]: n, e, f, o, u, r, j, a, n, u, a, r, y, t, w, e, n, t, y, t, w, o, s, a, t, u, r, d, a, y
+[DEBUG|enjoyParty.py:48] 2017-08-20 14:13:03,527 > [enjoyParty.py][solve][92]: a : 5
+[DEBUG|enjoyParty.py:48] 2017-08-20 14:13:03,528 > [enjoyParty.py][solve][92]: c : 2
+[DEBUG|enjoyParty.py:48] 2017-08-20 14:13:03,529 > [enjoyParty.py][solve][92]: e : 4
+[DEBUG|enjoyParty.py:48] 2017-08-20 14:13:03,530 > [enjoyParty.py][solve][92]: d : 3
+[DEBUG|enjoyParty.py:48] 2017-08-20 14:13:03,532 > [enjoyParty.py][solve][92]: g : 1
+[DEBUG|enjoyParty.py:48] 2017-08-20 14:13:03,534 > [enjoyParty.py][solve][92]: f : 2
+[DEBUG|enjoyParty.py:48] 2017-08-20 14:13:03,535 > [enjoyParty.py][solve][92]: i : 2
+[DEBUG|enjoyParty.py:48] 2017-08-20 14:13:03,536 > [enjoyParty.py][solve][92]: h : 1
+[DEBUG|enjoyParty.py:48] 2017-08-20 14:13:03,537 > [enjoyParty.py][solve][92]: j : 1
+[DEBUG|enjoyParty.py:48] 2017-08-20 14:13:03,537 > [enjoyParty.py][solve][92]: m : 1
+[DEBUG|enjoyParty.py:48] 2017-08-20 14:13:03,538 > [enjoyParty.py][solve][92]: l : 1
+[DEBUG|enjoyParty.py:48] 2017-08-20 14:13:03,539 > [enjoyParty.py][solve][92]: o : 6
+[DEBUG|enjoyParty.py:48] 2017-08-20 14:13:03,540 > [enjoyParty.py][solve][92]: n : 6
+[DEBUG|enjoyParty.py:48] 2017-08-20 14:13:03,541 > [enjoyParty.py][solve][92]: p : 1
+[DEBUG|enjoyParty.py:48] 2017-08-20 14:13:03,542 > [enjoyParty.py][solve][92]: s : 2
+[DEBUG|enjoyParty.py:48] 2017-08-20 14:13:03,545 > [enjoyParty.py][solve][92]: r : 6
+[DEBUG|enjoyParty.py:48] 2017-08-20 14:13:03,546 > [enjoyParty.py][solve][92]: u : 5
+[DEBUG|enjoyParty.py:48] 2017-08-20 14:13:03,547 > [enjoyParty.py][solve][92]: t : 6
+[DEBUG|enjoyParty.py:48] 2017-08-20 14:13:03,548 > [enjoyParty.py][solve][92]: w : 2
+[DEBUG|enjoyParty.py:48] 2017-08-20 14:13:03,549 > [enjoyParty.py][solve][92]: y : 3
+[INFO|enjoyParty.py:52] 2017-08-20 14:13:03,549 > ## Most favorite Item: o => count: 6

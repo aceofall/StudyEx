@@ -1,0 +1,135 @@
+[kiwi.py][solve][68]: argFile: input.txt
+[kiwi.py][parseInput][82]:  20, 20
+
+[kiwi.py][parseInput][82]:  5, 8
+
+[kiwi.py][solve][68]: argFile: input.txt
+[kiwi.py][parseInput][82]:  20, 20
+
+[kiwi.py][parseInput][82]:  5, 8
+
+[kiwi.py][solve][68]: argFile: input.txt
+[kiwi.py][parseInput][82]:  20, 20
+
+[kiwi.py][parseInput][82]:  5, 8
+
+[kiwi.py][parseInput][82]:  0
+
+[kiwi.py][parseInput][82]:  1
+
+[kiwi.py][solve][68]: argFile: input.txt
+[kiwi.py][parseInput][88]:  20, 20
+
+[kiwi.py][parseInput][88]:  5, 8
+
+[kiwi.py][parseInput][88]:  0
+
+[kiwi.py][parseInput][88]:  1
+
+[kiwi.py][solve][57]: argFile: input.txt
+[kiwi.py][parseInput][97]:  20, 20
+
+[kiwi.py][parseInput][97]:  5, 8
+
+[kiwi.py][parseInput][97]:  0
+
+[kiwi.py][parseInput][97]:  1
+
+[kiwi.py][solve][57]: argFile: input.txt
+[kiwi.py][parseInput][97]:  20, 20
+
+[kiwi.py][parseInput][97]:  5, 8
+
+[kiwi.py][parseInput][97]:  0
+
+[kiwi.py][parseInput][97]:  1
+
+[kiwi.py][solve][57]: argFile: input.txt
+[kiwi.py][parseInput][97]:  20, 20
+
+[kiwi.py][solve][57]: argFile: input.txt
+[kiwi.py][parseInput][97]:  20, 20
+
+[kiwi.py][parseInput][97]:  5, 8
+
+[kiwi.py][parseInput][97]:  0
+
+[kiwi.py][parseInput][97]:  1
+
+[kiwi.py][solve][57]: argFile: input.txt
+[kiwi.py][parseInput][97]:  20, 20
+
+[kiwi.py][parseInput][97]:  5, 8
+
+[kiwi.py][parseInput][97]:  0
+
+[kiwi.py][parseInput][97]:  1
+
+[kiwi.py][solve][78]: Result: [0, 13]
+[kiwi.py][solve][57]: argFile: input.txt
+[kiwi.py][parseInput][97]:  14, 35, 86, 58, 25, 62
+
+[kiwi.py][parseInput][97]:  6, 34, 27, 38, 9, 60
+
+[kiwi.py][parseInput][97]:  1, 2, 4, 5, 3, 3, 1, 0
+
+[kiwi.py][parseInput][97]:  0, 1, 2, 4, 2, 5, 3, 1
+
+[kiwi.py][solve][78]: Result: [0, 14, 65, 35, 25, 35]
+[kiwi.py][solve][57]: argFile: input.txt
+[kiwi.py][parseInput][99]:  14, 35, 86, 58, 25, 62
+
+[kiwi.py][parseInput][99]:  6, 34, 27, 38, 9, 60
+
+[kiwi.py][parseInput][99]:  1, 2, 4, 5, 3, 3, 1, 0
+
+[kiwi.py][parseInput][99]:  0, 1, 2, 4, 2, 5, 3, 1
+
+[kiwi.py][solve][80]: Result: [0, 14, 65, 35, 25, 35]
+[kiwi.py][solve][57]: argFile: input.txt
+[kiwi.py][parseInput][100]:  14, 35, 86, 58, 25, 62
+
+[kiwi.py][parseInput][100]:  6, 34, 27, 38, 9, 60
+
+[kiwi.py][parseInput][100]:  1, 2, 4, 5, 3, 3, 1, 0
+
+[kiwi.py][parseInput][100]:  0, 1, 2, 4, 2, 5, 3, 1
+
+[kiwi.py][solve][79]: current: [14, 26, ' 27', ' 38', ' 9', ' 60\n']
+[kiwi.py][solve][79]: current: [14, 35, 18, ' 38', ' 9', ' 60\n']
+[kiwi.py][solve][79]: current: [14, 35, 27, ' 38', 0, ' 60\n']
+[kiwi.py][solve][79]: current: [14, 35, 27, ' 38', 25, 35]
+[kiwi.py][solve][79]: current: [14, 35, 65, 0, 25, 35]
+[kiwi.py][solve][79]: current: [14, 35, 65, 0, 25, 35]
+[kiwi.py][solve][79]: current: [14, 0, 65, 35, 25, 35]
+[kiwi.py][solve][79]: current: [0, 14, 65, 35, 25, 35]
+[kiwi.py][solve][81]: Result: [0, 14, 65, 35, 25, 35]
+Result: [0, 14, 65, 35, 25, 35]
+capacities = 14, 35, 86, 58, 25, 62
+
+bottles = 6, 34, 27, 38, 9, 60
+
+fromId = 1, 2, 4, 5, 3, 3, 1, 0
+
+toId = 0, 1, 2, 4, 2, 5, 3, 1
+
+Result: [0, 14, 65, 35, 25, 35]
+[INFO|kiwi.py:52] 2017-08-11 16:02:13,998 > capacities = 14, 35, 86, 58, 25, 62
+
+[INFO|kiwi.py:52] 2017-08-11 16:02:14,000 > bottles = 6, 34, 27, 38, 9, 60
+
+[INFO|kiwi.py:52] 2017-08-11 16:02:14,006 > fromId = 1, 2, 4, 5, 3, 3, 1, 0
+
+[INFO|kiwi.py:52] 2017-08-11 16:02:14,012 > toId = 0, 1, 2, 4, 2, 5, 3, 1
+
+[INFO|kiwi.py:52] 2017-08-11 16:02:14,032 > Result: [0, 14, 65, 35, 25, 35]
+[INFO|kiwi.py:52] 2017-08-11 16:07:16,677 > capacities = 14, 35, 86, 58, 25, 62
+[INFO|kiwi.py:52] 2017-08-11 16:07:16,680 > bottles = 6, 34, 27, 38, 9, 60
+[INFO|kiwi.py:52] 2017-08-11 16:07:16,681 > fromId = 1, 2, 4, 5, 3, 3, 1, 0
+[INFO|kiwi.py:52] 2017-08-11 16:07:16,684 > toId = 0, 1, 2, 4, 2, 5, 3, 1
+[INFO|kiwi.py:52] 2017-08-11 16:07:16,700 > Result: [0, 14, 65, 35, 25, 35]
+[INFO|kiwi.py:52] 2017-08-11 16:15:21,081 > capacities = 14, 35, 86, 58, 25, 62
+[INFO|kiwi.py:52] 2017-08-11 16:15:21,085 > bottles = 6, 34, 27, 38, 9, 60
+[INFO|kiwi.py:52] 2017-08-11 16:15:21,088 > fromId = 1, 2, 4, 5, 3, 3, 1, 0
+[INFO|kiwi.py:52] 2017-08-11 16:15:21,091 > toId = 0, 1, 2, 4, 2, 5, 3, 1
+[INFO|kiwi.py:52] 2017-08-11 16:15:21,107 > Result: [0, 14, 65, 35, 25, 35]
