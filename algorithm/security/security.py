@@ -55,7 +55,7 @@ class Security:
 
 
     def solve(self, argv=None):
-        "Solve enjoyParty problem"
+        "Solve Security problem"
 
         if argv is None:
             argv = sys.argv
