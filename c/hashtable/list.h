@@ -8,24 +8,24 @@
 #ifdef __GNUC__
 
 #define _list_iterate_at(v, head, start) \
-	for (v = (typeof(v))(start)->n; v != (typeof(v))head; v = v->n)
+    for (v = (typeof(v))(start)->n; v != (typeof(v))head; v = v->n)
 #define _list_iterate(v, head) \
-	_list_iterate_at(v, head, head)
+    _list_iterate_at(v, head, head)
 
 #define _list_uniterate_at(v, head, start) \
     for (v = (typeof(v))(start)->p; v != (typeof(v))head; v = v->p)
 #define _list_uniterate(v, head) \
-	_list_uniterate_at(v, head, head)
+    _list_uniterate_at(v, head, head)
 
 #define _list_iterate_safe_at(v, t, head, start) \
     for (v = (typeof(v))(start)->n, t = (typeof(v))v->n; v != (typeof(v))head; v = t, t = v->n)
 #define _list_iterate_safe(v, t, head) \
-	_list_iterate_safe_at(v, t, head, head)
+    _list_iterate_safe_at(v, t, head, head)
 
 #define _list_uniterate_safe_at(v, t, head, start) \
     for (v = (typeof(v))(start)->p, t = (typeof(v))v->p; v != (typeof(v))head; v = t, t = v->p)
 #define _list_uniterate_safe(v, t, head) \
-	_list_uniterate_safe_at(v, t, head, head)
+    _list_uniterate_safe_at(v, t, head, head)
 
 #define list_iterate_at_t(t, v, head, start)			_list_iterate_at(v, head, start)
 #define list_iterate_at									_list_iterate_at
@@ -50,18 +50,18 @@
 #else // __GNUC__
 
 #define _list_iterate_at_t(t, v, head, start) \
-	for (v = (t*)(start)->n; v != (t*)head; v = v->n)
+    for (v = (t*)(start)->n; v != (t*)head; v = v->n)
 #define _list_iterate_at(v, head, start) \
-	_list_iterate_at_t(struct list, v, head, start)
+    _list_iterate_at_t(struct list, v, head, start)
 #define _list_iterate_t(t, v, head) \
-	_list_iterate_at_t(t, v, head, head)
+    _list_iterate_at_t(t, v, head, head)
 #define _list_iterate(v, head) \
-	_list_iterate_at_t(struct list, v, head, head)
+    _list_iterate_at_t(struct list, v, head, head)
 
 #define _list_uniterate_at_t(t, v, head, start) \
     for (v = (t*)(start)->p; v != (t*)head; v = v->p)
 #define _list_uniiterate_at(v, head, start) \
-	_list_uniterate_at_t(struct list, v, head, start)
+    _list_uniterate_at_t(struct list, v, head, start)
 #define _list_uniterate_t(t, v, head) \
     _list_uniterate_at_t(t, v, head, head)
 #define _list_uniterate(v, head) \
@@ -70,20 +70,20 @@
 #define _list_iterate_safe_at_t(type, v, t, head, start) \
     for (v = (type*)(start)->n, t = (type*)v->n; v != (type*)head; v = t, t = v->n)
 #define _list_iterate_safe_at(v, t, head, start) \
-	_list_iterate_safe_at_t(struct list, v, t, head, start)
+    _list_iterate_safe_at_t(struct list, v, t, head, start)
 #define _list_iterate_safe_t(type, v, t, head) \
-	_list_iterate_safe_at_t(type, v, t, head, head)
+    _list_iterate_safe_at_t(type, v, t, head, head)
 #define _list_iterate_safe(v, t, head) \
-	_list_iterate_safe_at_t(struct list, v, t, head, head)
+    _list_iterate_safe_at_t(struct list, v, t, head, head)
 
 #define _list_uniterate_safe_at_t(type, v, t, head, start) \
     for (v = (type*)(start)->p, t = (type*)v->p; v != (type*)head; v = t, t = v->p)
 #define _list_uniterate_safe_at(v, t, head, start) \
-	_list_uniterate_safe_at_t(struct list, v, t, head, start)
+    _list_uniterate_safe_at_t(struct list, v, t, head, start)
 #define _list_uniterate_safe_t(type, v, t, head) \
-	_list_uniterate_safe_at_t(type, v, t, head, head)
+    _list_uniterate_safe_at_t(type, v, t, head, head)
 #define _list_uniterate_safe(v, t, head) \
-	_list_uniterate_safe_at_t(struct list, v, t, head, head)
+    _list_uniterate_safe_at_t(struct list, v, t, head, head)
 
 #define list_iterate_at_t				_list_iterate_at_t
 #define list_iterate_at					_list_iterate_at
@@ -109,7 +109,7 @@
 
 struct list
 {
-	struct list *n, *p;
+    struct list *n, *p;
 };
 
 void _list_init(struct list *head);

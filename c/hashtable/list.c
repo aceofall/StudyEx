@@ -2,7 +2,7 @@
 
 void _list_init(struct list *head)
 {
-	head->n = head->p = head;
+    head->n = head->p = head;
 }
 
 /*
@@ -11,13 +11,13 @@ void _list_init(struct list *head)
  */
 void _list_add(struct list *head, struct list *elem)
 {
-	assert(head->n);
+    assert(head->n);
 
-	elem->n = head;
-	elem->p = head->p;
+    elem->n = head;
+    elem->p = head->p;
 
-	head->p->n = elem;
-	head->p = elem;
+    head->p->n = elem;
+    head->p = elem;
 }
 
 /*
@@ -26,13 +26,13 @@ void _list_add(struct list *head, struct list *elem)
  */
 void _list_add_h(struct list *head, struct list *elem)
 {
-	assert(head->n);
+    assert(head->n);
 
-	elem->n = head->n;
-	elem->p = head;
+    elem->n = head->n;
+    elem->p = head;
 
-	head->n->p = elem;
-	head->n = elem;
+    head->n->p = elem;
+    head->n = elem;
 }
 
 /*
@@ -42,8 +42,8 @@ void _list_add_h(struct list *head, struct list *elem)
  */
 void _list_del(struct list *elem)
 {
-	elem->n->p = elem->p;
-	elem->p->n = elem->n;
+    elem->n->p = elem->p;
+    elem->p->n = elem->n;
 }
 
 /*
@@ -51,8 +51,8 @@ void _list_del(struct list *elem)
  */
 void _list_move(struct list *head, struct list *elem)
 {
-        _list_del(elem);
-        _list_add(head, elem);
+    _list_del(elem);
+    _list_add(head, elem);
 }
 
 /*
@@ -60,7 +60,7 @@ void _list_move(struct list *head, struct list *elem)
  */
 int _list_empty(const struct list *head)
 {
-	return head->n == head;
+    return head->n == head;
 }
 
 /*
@@ -68,7 +68,7 @@ int _list_empty(const struct list *head)
  */
 int _list_start(const struct list *head, const struct list *elem)
 {
-	return elem->p == head;
+    return elem->p == head;
 }
 
 /*
@@ -76,7 +76,7 @@ int _list_start(const struct list *head, const struct list *elem)
  */
 int _list_end(const struct list *head, const struct list *elem)
 {
-	return elem->n == head;
+    return elem->n == head;
 }
 
 /*
@@ -84,7 +84,7 @@ int _list_end(const struct list *head, const struct list *elem)
  */
 struct list *_list_first(const struct list *head)
 {
-	return (_list_empty(head) ? NULL : head->n);
+    return (_list_empty(head) ? NULL : head->n);
 }
 
 /*
@@ -92,7 +92,7 @@ struct list *_list_first(const struct list *head)
  */
 struct list *_list_last(const struct list *head)
 {
-	return (_list_empty(head) ? NULL : head->p);
+    return (_list_empty(head) ? NULL : head->p);
 }
 
 /*
@@ -100,7 +100,7 @@ struct list *_list_last(const struct list *head)
  */
 struct list *_list_prev(const struct list *head, const struct list *elem)
 {
-	return (_list_start(head, elem) ? NULL : elem->p);
+    return (_list_start(head, elem) ? NULL : elem->p);
 }
 
 /*
@@ -108,7 +108,7 @@ struct list *_list_prev(const struct list *head, const struct list *elem)
  */
 struct list *_list_next(const struct list *head, const struct list *elem)
 {
-	return (_list_end(head, elem) ? NULL : elem->n);
+    return (_list_end(head, elem) ? NULL : elem->n);
 }
 
 /*
@@ -116,13 +116,13 @@ struct list *_list_next(const struct list *head, const struct list *elem)
  */
 unsigned int _list_size(const struct list *head)
 {
-	unsigned int s = 0;
-	const struct list *v;
+    unsigned int s = 0;
+    const struct list *v;
 
-	list_iterate(v, head)
-	    s++;
+    list_iterate(v, head)
+        s++;
 
-	return s;
+    return s;
 }
 
 /*
@@ -132,17 +132,17 @@ unsigned int _list_size(const struct list *head)
  */
 void _list_splice(struct list *head, struct list *head1)
 {
-	assert(head->n);
-	assert(head1->n);
-	
-	if (_list_empty(head1))
-	    return;
+    assert(head->n);
+    assert(head1->n);
 
-	head1->p->n = head;
-	head1->n->p = head->p;
+    if (_list_empty(head1))
+        return;
 
-	head->p->n = head1->n;
-	head->p = head1->p;
+    head1->p->n = head;
+    head1->n->p = head->p;
 
-	_list_init(head1);
+    head->p->n = head1->n;
+    head->p = head1->p;
+
+    _list_init(head1);
 }

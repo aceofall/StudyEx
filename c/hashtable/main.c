@@ -9,20 +9,17 @@
 #define T_LINK      3
 #define T_OTHER     4
 
-struct data
-{
+struct data {
     char name[256];
     int type;
     int size;
-
 };
 
 struct hashtable g_hash;
 
 const char *type_str(int type)
 {
-    switch(type)
-    {
+    switch(type) {
         case T_FILE:
             return "regular file";
         case T_DIR:
@@ -31,11 +28,9 @@ const char *type_str(int type)
             return "symbollic link";
         case T_OTHER:
             return "other file";
-
     }
 
     return "unkown file";
-
 }
 
 int compare_data(char *key, void *value)
@@ -43,13 +38,11 @@ int compare_data(char *key, void *value)
     struct data* data = (struct data*)value;
 
     return strcmp(key, data->name);
-
 }
 
 void free_data(void *value)
 {
     free(value);
-
 }
 
 off_t get_file_size(char* path)
@@ -63,7 +56,6 @@ off_t get_file_size(char* path)
         return 0;
 
     return buf.st_size;
-
 }
 
 int main(int argc, char *argv[])
@@ -72,8 +64,7 @@ int main(int argc, char *argv[])
 
     init_hash(&g_hash, 107, compare_data, free_data);
 
-    for(i=1; i<argc; i++)
-    {
+    for(i=1; i<argc; i++) {
         struct data *data = (struct data*)malloc(sizeof(struct data));
         struct stat st;
 
@@ -94,11 +85,9 @@ int main(int argc, char *argv[])
         data->size = st.st_size;
 
         insert_hash(&g_hash, argv[i], data);
-
     }
 
-    while(1)
-    {
+    while(1) {
         char cmdline[256] = {0, };
 
         printf("> ");
@@ -110,17 +99,11 @@ int main(int argc, char *argv[])
 
         struct data *ret = (struct data*)get_hash(&g_hash, cmdline);
 
-        if(NULL != ret)
-        {
+        if(NULL != ret) {
             printf("%s(%d) : %s\n", ret->name, ret->size, type_str(ret->type));
-
-        }
-        else
-        {
+        } else {
             fprintf(stderr, "%s : not found!\n", cmdline);
-
         }
-
     }
 
     destory_hash(&g_hash);

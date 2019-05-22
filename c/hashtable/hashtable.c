@@ -12,13 +12,10 @@ void init_hash(struct hashtable *h, int hash_size, compare_value_f compare, free
 
     h->hash = (struct hashnode*)malloc(sizeof(struct hashnode) * hash_size);
 
-    for(i=0; i<hash_size; i++)
-    {
+    for(i=0; i<hash_size; i++) {
         list_init(&h->hash[i].list);
         h->hash[i].value_count = 0;
-
     }
-
 }
 
 unsigned int hash(struct hashtable *h, char *key)
@@ -29,7 +26,6 @@ unsigned int hash(struct hashtable *h, char *key)
         k = *key+k*31;
 
     return k % h->hash_size;
-
 }
 
 void insert_hash(struct hashtable *h, char *key, void *value)
@@ -56,7 +52,6 @@ void insert_hash(struct hashtable *h, char *key, void *value)
 
     h->alloc_count++;
     h->hash[index].value_count++;
-
 }
 
 void *delete_hash(struct hashtable *h, char *key)
@@ -65,10 +60,8 @@ void *delete_hash(struct hashtable *h, char *key)
     struct hashlist *v, *t;
     void *ret = NULL;
 
-    list_iterate_safe(v, t, &h->hash[index].list)
-    {
-        if(!h->compare_f(key, v->value))
-        {
+    list_iterate_safe(v, t, &h->hash[index].list) {
+        if(!h->compare_f(key, v->value)) {
             ret = v->value;
             list_del(v);
             h->free_f(v->value);
@@ -78,13 +71,10 @@ void *delete_hash(struct hashtable *h, char *key)
             h->alloc_count--;
 
             break;
-
         }
-
     }
 
     return ret;
-
 }
 
 void *get_hash(struct hashtable *h, char *key)
@@ -92,15 +82,12 @@ void *get_hash(struct hashtable *h, char *key)
     int index = hash(h, key);
     struct hashlist *v;
 
-    list_iterate(v, &h->hash[index].list)
-    {
+    list_iterate(v, &h->hash[index].list) {
         if(!h->compare_f(key, v->value))
             return v->value;
-
     }
 
     return NULL;
-
 }
 
 void destory_hash(struct hashtable *h)
@@ -108,21 +95,16 @@ void destory_hash(struct hashtable *h)
     int i;
     struct hashlist *v, *t;
 
-    for(i=0; i<h->hash_size; i++)
-    {
-        list_iterate_safe(v, t, &h->hash[i].list)
-        {
+    for(i=0; i<h->hash_size; i++) {
+        list_iterate_safe(v, t, &h->hash[i].list) {
             list_del(v);
             h->free_f(v->value);
             free(v);
 
             h->hash[i].value_count--;
             h->alloc_count--;
-
         }
-
     }
 
     free(h->hash);
-
 }
