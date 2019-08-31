@@ -1,0 +1,6 @@
+[DEBUG|security.py:48] 2017-08-27 19:22:27,181 > [security.py][solve][68]: argFile: input.txt
+[DEBUG|security.py:48] 2017-08-27 19:22:27,183 > [security.py][parseInput][104]: numbers = {1, 2, 3}
+[DEBUG|security.py:48] 2017-08-27 19:22:27,184 > [security.py][parseInput][111]: 1, 2, 3
+[DEBUG|security.py:48] 2017-08-27 19:22:27,185 > [security.py][solve][86]: 12
+[DEBUG|security.py:48] 2017-08-27 19:22:27,186 > [security.py][solve][87]: 4611686018427387904
+[INFO|security.py:52] 2017-08-27 19:22:27,187 > ## Calculate Returns: 12

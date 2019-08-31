@@ -1,0 +1,948 @@
+[DEBUG|virus.py:52] 2019-05-12 00:42:48,124 > [virus.py][solve][72]: argFile: input.txt
+[DEBUG|virus.py:52] 2019-05-12 00:42:48,126 > [virus.py][parseInput][99]: 1 2
+[DEBUG|virus.py:52] 2019-05-12 00:42:48,128 > [virus.py][parseInput][99]: 2 3
+[DEBUG|virus.py:52] 2019-05-12 00:42:48,130 > [virus.py][parseInput][99]: 1 5
+[DEBUG|virus.py:52] 2019-05-12 00:42:48,131 > [virus.py][parseInput][99]: 5 2
+[DEBUG|virus.py:52] 2019-05-12 00:42:48,133 > [virus.py][parseInput][99]: 5 6
+[DEBUG|virus.py:52] 2019-05-12 00:42:48,134 > [virus.py][parseInput][99]: 4 7
+[DEBUG|virus.py:52] 2019-05-12 00:43:35,959 > [virus.py][solve][72]: argFile: input.txt
+[DEBUG|virus.py:52] 2019-05-12 00:43:35,961 > [virus.py][parseInput][99]: 1 2
+[DEBUG|virus.py:52] 2019-05-12 00:43:35,962 > [virus.py][parseInput][99]: 2 3
+[DEBUG|virus.py:52] 2019-05-12 00:43:35,964 > [virus.py][parseInput][99]: 1 5
+[DEBUG|virus.py:52] 2019-05-12 00:43:35,965 > [virus.py][parseInput][99]: 5 2
+[DEBUG|virus.py:52] 2019-05-12 00:43:35,966 > [virus.py][parseInput][99]: 5 6
+[DEBUG|virus.py:52] 2019-05-12 00:43:35,968 > [virus.py][parseInput][99]: 4 7
+[DEBUG|virus.py:52] 2019-05-12 00:44:43,855 > [virus.py][solve][72]: argFile: input.txt
+[DEBUG|virus.py:52] 2019-05-12 00:44:43,858 > [virus.py][parseInput][99]: 1 2
+[DEBUG|virus.py:52] 2019-05-12 00:44:43,859 > [virus.py][parseInput][99]: 2 3
+[DEBUG|virus.py:52] 2019-05-12 00:44:43,860 > [virus.py][parseInput][99]: 1 5
+[DEBUG|virus.py:52] 2019-05-12 00:44:43,862 > [virus.py][parseInput][99]: 5 2
+[DEBUG|virus.py:52] 2019-05-12 00:44:43,863 > [virus.py][parseInput][99]: 5 6
+[DEBUG|virus.py:52] 2019-05-12 00:44:43,864 > [virus.py][parseInput][99]: 4 7
+[DEBUG|virus.py:52] 2019-05-12 01:01:04,626 > [virus.py][solve][72]: argFile: input.txt
+[DEBUG|virus.py:52] 2019-05-12 01:05:11,424 > [virus.py][solve][72]: argFile: input.txt
+[DEBUG|virus.py:52] 2019-05-12 01:05:31,900 > [virus.py][solve][72]: argFile: input.txt
+[DEBUG|virus.py:52] 2019-05-12 01:09:38,504 > [virus.py][solve][72]: argFile: input.txt
+[DEBUG|virus.py:52] 2019-05-12 01:11:03,845 > [virus.py][solve][72]: argFile: input.txt
+[DEBUG|virus.py:52] 2019-05-12 01:11:03,848 > [virus.py][parseInput][123]: 1 2
+[DEBUG|virus.py:52] 2019-05-12 01:11:03,849 > [virus.py][parseInput][123]: 2 3
+[DEBUG|virus.py:52] 2019-05-12 01:11:03,850 > [virus.py][parseInput][123]: 1 5
+[DEBUG|virus.py:52] 2019-05-12 01:11:03,852 > [virus.py][parseInput][123]: 5 2
+[DEBUG|virus.py:52] 2019-05-12 01:11:03,853 > [virus.py][parseInput][123]: 5 6
+[DEBUG|virus.py:52] 2019-05-12 01:11:03,854 > [virus.py][parseInput][123]: 4 7
+[DEBUG|virus.py:52] 2019-05-12 01:24:44,533 > [virus.py][solve][72]: argFile: input.txt
+[DEBUG|virus.py:52] 2019-05-12 01:24:44,536 > [virus.py][parseInput][132]: 1 2
+[DEBUG|virus.py:52] 2019-05-12 01:24:44,537 > [virus.py][parseInput][132]: 2 3
+[DEBUG|virus.py:52] 2019-05-12 01:24:44,539 > [virus.py][parseInput][132]: 1 5
+[DEBUG|virus.py:52] 2019-05-12 01:24:44,540 > [virus.py][parseInput][132]: 5 2
+[DEBUG|virus.py:52] 2019-05-12 01:24:44,541 > [virus.py][parseInput][132]: 5 6
+[DEBUG|virus.py:52] 2019-05-12 01:24:44,543 > [virus.py][parseInput][132]: 4 7
+[DEBUG|virus.py:52] 2019-05-12 01:26:25,814 > [virus.py][solve][72]: argFile: input.txt
+[DEBUG|virus.py:52] 2019-05-12 01:26:25,816 > [virus.py][parseInput][132]: 1 2
+[DEBUG|virus.py:52] 2019-05-12 01:26:25,818 > [virus.py][parseInput][132]: 2 3
+[DEBUG|virus.py:52] 2019-05-12 01:26:25,819 > [virus.py][parseInput][132]: 1 5
+[DEBUG|virus.py:52] 2019-05-12 01:26:25,820 > [virus.py][parseInput][132]: 5 2
+[DEBUG|virus.py:52] 2019-05-12 01:26:25,822 > [virus.py][parseInput][132]: 5 6
+[DEBUG|virus.py:52] 2019-05-12 01:26:25,823 > [virus.py][parseInput][132]: 4 7
+[DEBUG|virus.py:52] 2019-05-12 01:28:12,376 > [virus.py][solve][72]: argFile: input.txt
+[DEBUG|virus.py:52] 2019-05-12 01:28:12,379 > [virus.py][parseInput][134]: 1 2
+[DEBUG|virus.py:52] 2019-05-12 01:28:12,380 > [virus.py][parseInput][134]: 2 3
+[DEBUG|virus.py:52] 2019-05-12 01:28:12,382 > [virus.py][parseInput][134]: 1 5
+[DEBUG|virus.py:52] 2019-05-12 01:28:12,383 > [virus.py][parseInput][134]: 5 2
+[DEBUG|virus.py:52] 2019-05-12 01:28:12,384 > [virus.py][parseInput][134]: 5 6
+[DEBUG|virus.py:52] 2019-05-12 01:28:12,386 > [virus.py][parseInput][134]: 4 7
+[DEBUG|virus.py:54] 2019-05-12 01:28:44,520 > [virus.py][solve][74]: argFile: input.txt
+[DEBUG|virus.py:54] 2019-05-12 01:28:44,522 > [virus.py][parseInput][136]: 1 2
+[DEBUG|virus.py:54] 2019-05-12 01:28:44,524 > [virus.py][parseInput][136]: 2 3
+[DEBUG|virus.py:54] 2019-05-12 01:28:44,526 > [virus.py][parseInput][136]: 1 5
+[DEBUG|virus.py:54] 2019-05-12 01:28:44,535 > [virus.py][parseInput][136]: 5 2
+[DEBUG|virus.py:54] 2019-05-12 01:28:44,537 > [virus.py][parseInput][136]: 5 6
+[DEBUG|virus.py:54] 2019-05-12 01:28:44,539 > [virus.py][parseInput][136]: 4 7
+[DEBUG|virus.py:57] 2019-05-12 01:32:00,949 > [virus.py][solve][77]: argFile: input.txt
+[DEBUG|virus.py:57] 2019-05-12 01:32:00,968 > [virus.py][parseInput][142]: 1 2
+[DEBUG|virus.py:57] 2019-05-12 01:32:00,971 > [virus.py][parseInput][142]: 2 3
+[DEBUG|virus.py:57] 2019-05-12 01:32:00,973 > [virus.py][parseInput][142]: 1 5
+[DEBUG|virus.py:57] 2019-05-12 01:32:00,975 > [virus.py][parseInput][142]: 5 2
+[DEBUG|virus.py:57] 2019-05-12 01:32:01,000 > [virus.py][parseInput][142]: 5 6
+[DEBUG|virus.py:57] 2019-05-12 01:32:01,066 > [virus.py][parseInput][142]: 4 7
+[DEBUG|virus.py:57] 2019-05-12 01:33:01,737 > [virus.py][solve][77]: argFile: input.txt
+[DEBUG|virus.py:57] 2019-05-12 01:33:01,739 > [virus.py][parseInput][143]: 1 2
+[DEBUG|virus.py:57] 2019-05-12 01:33:01,740 > [virus.py][parseInput][143]: 2 3
+[DEBUG|virus.py:57] 2019-05-12 01:33:01,742 > [virus.py][parseInput][143]: 1 5
+[DEBUG|virus.py:57] 2019-05-12 01:33:01,743 > [virus.py][parseInput][143]: 5 2
+[DEBUG|virus.py:57] 2019-05-12 01:33:01,745 > [virus.py][parseInput][143]: 5 6
+[DEBUG|virus.py:57] 2019-05-12 01:33:01,748 > [virus.py][parseInput][143]: 4 7
+[DEBUG|virus.py:57] 2019-05-12 01:33:24,370 > [virus.py][solve][77]: argFile: input.txt
+[DEBUG|virus.py:57] 2019-05-12 01:33:24,372 > [virus.py][parseInput][143]: 1 2
+[DEBUG|virus.py:57] 2019-05-12 01:33:24,373 > [virus.py][parseInput][143]: 2 3
+[DEBUG|virus.py:57] 2019-05-12 01:33:24,375 > [virus.py][parseInput][143]: 1 5
+[DEBUG|virus.py:57] 2019-05-12 01:33:24,376 > [virus.py][parseInput][143]: 5 2
+[DEBUG|virus.py:57] 2019-05-12 01:33:24,378 > [virus.py][parseInput][143]: 5 6
+[DEBUG|virus.py:57] 2019-05-12 01:33:24,380 > [virus.py][parseInput][143]: 4 7
+[DEBUG|virus.py:57] 2019-05-12 01:36:39,479 > [virus.py][solve][77]: argFile: input.txt
+[DEBUG|virus.py:57] 2019-05-12 01:36:39,483 > [virus.py][parseInput][148]: 1 2
+[DEBUG|virus.py:57] 2019-05-12 01:36:39,484 > [virus.py][parseInput][148]: 2 3
+[DEBUG|virus.py:57] 2019-05-12 01:36:39,486 > [virus.py][parseInput][148]: 1 5
+[DEBUG|virus.py:57] 2019-05-12 01:36:39,487 > [virus.py][parseInput][148]: 5 2
+[DEBUG|virus.py:57] 2019-05-12 01:36:39,488 > [virus.py][parseInput][148]: 5 6
+[DEBUG|virus.py:57] 2019-05-12 01:36:39,489 > [virus.py][parseInput][148]: 4 7
+[DEBUG|virus.py:57] 2019-05-12 01:37:01,408 > [virus.py][solve][77]: argFile: input.txt
+[DEBUG|virus.py:57] 2019-05-12 01:37:01,410 > [virus.py][parseInput][148]: 1 2
+[DEBUG|virus.py:57] 2019-05-12 01:37:01,412 > [virus.py][parseInput][148]: 2 3
+[DEBUG|virus.py:57] 2019-05-12 01:37:01,413 > [virus.py][parseInput][148]: 1 5
+[DEBUG|virus.py:57] 2019-05-12 01:37:01,415 > [virus.py][parseInput][148]: 5 2
+[DEBUG|virus.py:57] 2019-05-12 01:37:01,416 > [virus.py][parseInput][148]: 5 6
+[DEBUG|virus.py:57] 2019-05-12 01:37:01,417 > [virus.py][parseInput][148]: 4 7
+[DEBUG|virus.py:57] 2019-05-12 01:38:50,185 > [virus.py][solve][77]: argFile: input.txt
+[DEBUG|virus.py:57] 2019-05-12 01:38:50,188 > [virus.py][parseInput][149]: 1 2
+[DEBUG|virus.py:57] 2019-05-12 01:38:50,189 > [virus.py][parseInput][149]: 2 3
+[DEBUG|virus.py:57] 2019-05-12 01:38:50,200 > [virus.py][parseInput][149]: 1 5
+[DEBUG|virus.py:57] 2019-05-12 01:38:50,202 > [virus.py][parseInput][149]: 5 2
+[DEBUG|virus.py:57] 2019-05-12 01:38:50,204 > [virus.py][parseInput][149]: 5 6
+[DEBUG|virus.py:57] 2019-05-12 01:38:50,205 > [virus.py][parseInput][149]: 4 7
+[DEBUG|virus.py:57] 2019-05-12 01:43:05,845 > [virus.py][solve][77]: argFile: input.txt
+[DEBUG|virus.py:57] 2019-05-12 01:43:05,848 > [virus.py][parseInput][150]: 1 2
+[DEBUG|virus.py:57] 2019-05-12 01:43:05,849 > [virus.py][parseInput][150]: 2 3
+[DEBUG|virus.py:57] 2019-05-12 01:43:05,851 > [virus.py][parseInput][150]: 1 5
+[DEBUG|virus.py:57] 2019-05-12 01:43:05,852 > [virus.py][parseInput][150]: 5 2
+[DEBUG|virus.py:57] 2019-05-12 01:43:05,853 > [virus.py][parseInput][150]: 5 6
+[DEBUG|virus.py:57] 2019-05-12 01:43:05,855 > [virus.py][parseInput][150]: 4 7
+[DEBUG|virus.py:57] 2019-05-12 01:43:05,856 > [virus.py][solve][87]: x: 1, y: 2
+[DEBUG|virus.py:57] 2019-05-12 01:43:05,857 > [virus.py][solve][87]: x: 2, y: 3
+[DEBUG|virus.py:57] 2019-05-12 01:43:05,858 > [virus.py][solve][87]: x: 1, y: 5
+[DEBUG|virus.py:57] 2019-05-12 01:43:05,859 > [virus.py][solve][87]: x: 5, y: 2
+[DEBUG|virus.py:57] 2019-05-12 01:43:05,861 > [virus.py][solve][87]: x: 5, y: 6
+[DEBUG|virus.py:57] 2019-05-12 01:43:05,863 > [virus.py][solve][87]: x: 4, y: 7
+[DEBUG|virus.py:57] 2019-05-12 01:43:36,209 > [virus.py][solve][77]: argFile: input.txt
+[DEBUG|virus.py:57] 2019-05-12 01:43:36,212 > [virus.py][parseInput][150]: 1 2
+[DEBUG|virus.py:57] 2019-05-12 01:43:36,213 > [virus.py][parseInput][150]: 2 3
+[DEBUG|virus.py:57] 2019-05-12 01:43:36,215 > [virus.py][parseInput][150]: 1 5
+[DEBUG|virus.py:57] 2019-05-12 01:43:36,218 > [virus.py][parseInput][150]: 5 2
+[DEBUG|virus.py:57] 2019-05-12 01:43:36,219 > [virus.py][parseInput][150]: 5 6
+[DEBUG|virus.py:57] 2019-05-12 01:43:36,221 > [virus.py][parseInput][150]: 4 7
+[DEBUG|virus.py:57] 2019-05-12 01:43:36,224 > [virus.py][solve][87]: x: 1, y: 2
+[DEBUG|virus.py:57] 2019-05-12 01:43:36,226 > [virus.py][solve][87]: x: 2, y: 3
+[DEBUG|virus.py:57] 2019-05-12 01:43:36,227 > [virus.py][solve][87]: x: 1, y: 5
+[DEBUG|virus.py:57] 2019-05-12 01:43:36,230 > [virus.py][solve][87]: x: 5, y: 2
+[DEBUG|virus.py:57] 2019-05-12 01:43:36,233 > [virus.py][solve][87]: x: 5, y: 6
+[DEBUG|virus.py:57] 2019-05-12 01:43:36,235 > [virus.py][solve][87]: x: 4, y: 7
+[DEBUG|virus.py:59] 2019-05-12 01:46:33,914 > [virus.py][solve][79]: argFile: input.txt
+[DEBUG|virus.py:59] 2019-05-12 01:46:33,917 > [virus.py][parseInput][152]: 1 2
+[DEBUG|virus.py:59] 2019-05-12 01:46:33,919 > [virus.py][parseInput][152]: 2 3
+[DEBUG|virus.py:59] 2019-05-12 01:46:33,920 > [virus.py][parseInput][152]: 1 5
+[DEBUG|virus.py:59] 2019-05-12 01:46:33,921 > [virus.py][parseInput][152]: 5 2
+[DEBUG|virus.py:59] 2019-05-12 01:46:33,923 > [virus.py][parseInput][152]: 5 6
+[DEBUG|virus.py:59] 2019-05-12 01:46:33,924 > [virus.py][parseInput][152]: 4 7
+[DEBUG|virus.py:59] 2019-05-12 01:46:33,926 > [virus.py][solve][89]: x: 1, y: 2
+[DEBUG|virus.py:59] 2019-05-12 01:46:33,927 > [virus.py][solve][89]: x: 2, y: 3
+[DEBUG|virus.py:59] 2019-05-12 01:46:33,928 > [virus.py][solve][89]: x: 1, y: 5
+[DEBUG|virus.py:59] 2019-05-12 01:46:33,930 > [virus.py][solve][89]: x: 5, y: 2
+[DEBUG|virus.py:59] 2019-05-12 01:46:33,931 > [virus.py][solve][89]: x: 5, y: 6
+[DEBUG|virus.py:59] 2019-05-12 01:46:33,932 > [virus.py][solve][89]: x: 4, y: 7
+[DEBUG|virus.py:59] 2019-05-12 01:46:33,935 > [virus.py][printMap][103]: [0, 1, 0, 0, 1, 0, 0]
+[DEBUG|virus.py:59] 2019-05-12 01:46:33,936 > [virus.py][printMap][103]: [1, 0, 1, 0, 1, 0, 0]
+[DEBUG|virus.py:59] 2019-05-12 01:46:33,939 > [virus.py][printMap][103]: [0, 1, 0, 0, 0, 0, 0]
+[DEBUG|virus.py:59] 2019-05-12 01:46:33,940 > [virus.py][printMap][103]: [0, 0, 0, 0, 0, 0, 1]
+[DEBUG|virus.py:59] 2019-05-12 01:46:33,941 > [virus.py][printMap][103]: [1, 1, 0, 0, 0, 1, 0]
+[DEBUG|virus.py:59] 2019-05-12 01:46:33,943 > [virus.py][printMap][103]: [0, 0, 0, 0, 1, 0, 0]
+[DEBUG|virus.py:59] 2019-05-12 01:46:33,944 > [virus.py][printMap][103]: [0, 0, 0, 1, 0, 0, 0]
+[DEBUG|virus.py:60] 2019-05-12 02:04:14,607 > [virus.py][solve][80]: argFile: input.txt
+[DEBUG|virus.py:60] 2019-05-12 02:04:14,609 > [virus.py][parseInput][159]: 1 2
+[DEBUG|virus.py:60] 2019-05-12 02:04:14,612 > [virus.py][parseInput][159]: 2 3
+[DEBUG|virus.py:60] 2019-05-12 02:04:14,618 > [virus.py][parseInput][159]: 1 5
+[DEBUG|virus.py:60] 2019-05-12 02:04:14,620 > [virus.py][parseInput][159]: 5 2
+[DEBUG|virus.py:60] 2019-05-12 02:04:14,621 > [virus.py][parseInput][159]: 5 6
+[DEBUG|virus.py:60] 2019-05-12 02:04:14,623 > [virus.py][parseInput][159]: 4 7
+[DEBUG|virus.py:60] 2019-05-12 02:04:14,626 > [virus.py][solve][90]: x: 1, y: 2
+[DEBUG|virus.py:60] 2019-05-12 02:04:14,632 > [virus.py][solve][90]: x: 2, y: 3
+[DEBUG|virus.py:60] 2019-05-12 02:04:14,633 > [virus.py][solve][90]: x: 1, y: 5
+[DEBUG|virus.py:60] 2019-05-12 02:04:14,634 > [virus.py][solve][90]: x: 5, y: 2
+[DEBUG|virus.py:60] 2019-05-12 02:04:14,635 > [virus.py][solve][90]: x: 5, y: 6
+[DEBUG|virus.py:60] 2019-05-12 02:04:14,636 > [virus.py][solve][90]: x: 4, y: 7
+[DEBUG|virus.py:60] 2019-05-12 02:04:14,638 > [virus.py][printMap][110]: [0, 1, 0, 0, 1, 0, 0]
+[DEBUG|virus.py:60] 2019-05-12 02:04:14,639 > [virus.py][printMap][110]: [1, 0, 1, 0, 1, 0, 0]
+[DEBUG|virus.py:60] 2019-05-12 02:04:14,640 > [virus.py][printMap][110]: [0, 1, 0, 0, 0, 0, 0]
+[DEBUG|virus.py:60] 2019-05-12 02:04:14,668 > [virus.py][printMap][110]: [0, 0, 0, 0, 0, 0, 1]
+[DEBUG|virus.py:60] 2019-05-12 02:04:14,671 > [virus.py][printMap][110]: [1, 1, 0, 0, 0, 1, 0]
+[DEBUG|virus.py:60] 2019-05-12 02:04:14,672 > [virus.py][printMap][110]: [0, 0, 0, 0, 1, 0, 0]
+[DEBUG|virus.py:60] 2019-05-12 02:04:14,673 > [virus.py][printMap][110]: [0, 0, 0, 1, 0, 0, 0]
+[DEBUG|virus.py:60] 2019-05-12 02:05:57,659 > [virus.py][solve][80]: argFile: input.txt
+[DEBUG|virus.py:60] 2019-05-12 02:05:57,660 > [virus.py][parseInput][159]: 1 2
+[DEBUG|virus.py:60] 2019-05-12 02:05:57,662 > [virus.py][parseInput][159]: 2 3
+[DEBUG|virus.py:60] 2019-05-12 02:05:57,663 > [virus.py][parseInput][159]: 1 5
+[DEBUG|virus.py:60] 2019-05-12 02:05:57,665 > [virus.py][parseInput][159]: 5 2
+[DEBUG|virus.py:60] 2019-05-12 02:05:57,666 > [virus.py][parseInput][159]: 5 6
+[DEBUG|virus.py:60] 2019-05-12 02:05:57,668 > [virus.py][parseInput][159]: 4 7
+[DEBUG|virus.py:60] 2019-05-12 02:05:57,670 > [virus.py][solve][90]: x: 1, y: 2
+[DEBUG|virus.py:60] 2019-05-12 02:05:57,673 > [virus.py][solve][90]: x: 2, y: 3
+[DEBUG|virus.py:60] 2019-05-12 02:05:57,674 > [virus.py][solve][90]: x: 1, y: 5
+[DEBUG|virus.py:60] 2019-05-12 02:05:57,675 > [virus.py][solve][90]: x: 5, y: 2
+[DEBUG|virus.py:60] 2019-05-12 02:05:57,676 > [virus.py][solve][90]: x: 5, y: 6
+[DEBUG|virus.py:60] 2019-05-12 02:05:57,678 > [virus.py][solve][90]: x: 4, y: 7
+[DEBUG|virus.py:60] 2019-05-12 02:05:57,679 > [virus.py][printMap][110]: [0, 1, 0, 0, 1, 0, 0]
+[DEBUG|virus.py:60] 2019-05-12 02:05:57,681 > [virus.py][printMap][110]: [1, 0, 1, 0, 1, 0, 0]
+[DEBUG|virus.py:60] 2019-05-12 02:05:57,682 > [virus.py][printMap][110]: [0, 1, 0, 0, 0, 0, 0]
+[DEBUG|virus.py:60] 2019-05-12 02:05:57,685 > [virus.py][printMap][110]: [0, 0, 0, 0, 0, 0, 1]
+[DEBUG|virus.py:60] 2019-05-12 02:05:57,686 > [virus.py][printMap][110]: [1, 1, 0, 0, 0, 1, 0]
+[DEBUG|virus.py:60] 2019-05-12 02:05:57,688 > [virus.py][printMap][110]: [0, 0, 0, 0, 1, 0, 0]
+[DEBUG|virus.py:60] 2019-05-12 02:05:57,689 > [virus.py][printMap][110]: [0, 0, 0, 1, 0, 0, 0]
+[DEBUG|virus.py:60] 2019-05-12 02:08:50,016 > [virus.py][solve][80]: argFile: input.txt
+[DEBUG|virus.py:60] 2019-05-12 02:08:50,018 > [virus.py][parseInput][160]: 1 2
+[DEBUG|virus.py:60] 2019-05-12 02:08:50,019 > [virus.py][parseInput][160]: 2 3
+[DEBUG|virus.py:60] 2019-05-12 02:08:50,021 > [virus.py][parseInput][160]: 1 5
+[DEBUG|virus.py:60] 2019-05-12 02:08:50,022 > [virus.py][parseInput][160]: 5 2
+[DEBUG|virus.py:60] 2019-05-12 02:08:50,023 > [virus.py][parseInput][160]: 5 6
+[DEBUG|virus.py:60] 2019-05-12 02:08:50,025 > [virus.py][parseInput][160]: 4 7
+[DEBUG|virus.py:60] 2019-05-12 02:08:50,026 > [virus.py][solve][90]: x: 1, y: 2
+[DEBUG|virus.py:60] 2019-05-12 02:08:50,027 > [virus.py][solve][90]: x: 2, y: 3
+[DEBUG|virus.py:60] 2019-05-12 02:08:50,028 > [virus.py][solve][90]: x: 1, y: 5
+[DEBUG|virus.py:60] 2019-05-12 02:08:50,029 > [virus.py][solve][90]: x: 5, y: 2
+[DEBUG|virus.py:60] 2019-05-12 02:08:50,030 > [virus.py][solve][90]: x: 5, y: 6
+[DEBUG|virus.py:60] 2019-05-12 02:08:50,031 > [virus.py][solve][90]: x: 4, y: 7
+[DEBUG|virus.py:60] 2019-05-12 02:08:50,035 > [virus.py][printMap][111]: [0, 1, 0, 0, 1, 0, 0]
+[DEBUG|virus.py:60] 2019-05-12 02:08:50,037 > [virus.py][printMap][111]: [1, 0, 1, 0, 1, 0, 0]
+[DEBUG|virus.py:60] 2019-05-12 02:08:50,038 > [virus.py][printMap][111]: [0, 1, 0, 0, 0, 0, 0]
+[DEBUG|virus.py:60] 2019-05-12 02:08:50,040 > [virus.py][printMap][111]: [0, 0, 0, 0, 0, 0, 1]
+[DEBUG|virus.py:60] 2019-05-12 02:08:50,041 > [virus.py][printMap][111]: [1, 1, 0, 0, 0, 1, 0]
+[DEBUG|virus.py:60] 2019-05-12 02:08:50,042 > [virus.py][printMap][111]: [0, 0, 0, 0, 1, 0, 0]
+[DEBUG|virus.py:60] 2019-05-12 02:08:50,043 > [virus.py][printMap][111]: [0, 0, 0, 1, 0, 0, 0]
+[DEBUG|virus.py:60] 2019-05-12 02:08:50,047 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 4
+[DEBUG|virus.py:60] 2019-05-12 02:08:50,048 > [virus.py][checkVirus][104]: startPoint: 4, checkPoint: 6
+[DEBUG|virus.py:60] 2019-05-12 02:12:02,488 > [virus.py][solve][80]: argFile: input.txt
+[DEBUG|virus.py:60] 2019-05-12 02:12:02,490 > [virus.py][parseInput][160]: 1 2
+[DEBUG|virus.py:60] 2019-05-12 02:12:02,492 > [virus.py][parseInput][160]: 2 3
+[DEBUG|virus.py:60] 2019-05-12 02:12:02,493 > [virus.py][parseInput][160]: 1 5
+[DEBUG|virus.py:60] 2019-05-12 02:12:02,495 > [virus.py][parseInput][160]: 5 2
+[DEBUG|virus.py:60] 2019-05-12 02:12:02,496 > [virus.py][parseInput][160]: 5 6
+[DEBUG|virus.py:60] 2019-05-12 02:12:02,498 > [virus.py][parseInput][160]: 4 7
+[DEBUG|virus.py:60] 2019-05-12 02:12:02,500 > [virus.py][solve][90]: x: 1, y: 2
+[DEBUG|virus.py:60] 2019-05-12 02:12:02,502 > [virus.py][solve][90]: x: 2, y: 3
+[DEBUG|virus.py:60] 2019-05-12 02:12:02,504 > [virus.py][solve][90]: x: 1, y: 5
+[DEBUG|virus.py:60] 2019-05-12 02:12:02,506 > [virus.py][solve][90]: x: 5, y: 2
+[DEBUG|virus.py:60] 2019-05-12 02:12:02,509 > [virus.py][solve][90]: x: 5, y: 6
+[DEBUG|virus.py:60] 2019-05-12 02:12:02,510 > [virus.py][solve][90]: x: 4, y: 7
+[DEBUG|virus.py:60] 2019-05-12 02:12:02,511 > [virus.py][printMap][111]: [0, 1, 0, 0, 1, 0, 0]
+[DEBUG|virus.py:60] 2019-05-12 02:12:02,513 > [virus.py][printMap][111]: [1, 0, 1, 0, 1, 0, 0]
+[DEBUG|virus.py:60] 2019-05-12 02:12:02,514 > [virus.py][printMap][111]: [0, 1, 0, 0, 0, 0, 0]
+[DEBUG|virus.py:60] 2019-05-12 02:12:02,516 > [virus.py][printMap][111]: [0, 0, 0, 0, 0, 0, 1]
+[DEBUG|virus.py:60] 2019-05-12 02:12:02,518 > [virus.py][printMap][111]: [1, 1, 0, 0, 0, 1, 0]
+[DEBUG|virus.py:60] 2019-05-12 02:12:02,519 > [virus.py][printMap][111]: [0, 0, 0, 0, 1, 0, 0]
+[DEBUG|virus.py:60] 2019-05-12 02:12:02,521 > [virus.py][printMap][111]: [0, 0, 0, 1, 0, 0, 0]
+[DEBUG|virus.py:60] 2019-05-12 02:12:02,522 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 5
+[DEBUG|virus.py:60] 2019-05-12 02:12:02,524 > [virus.py][checkVirus][104]: startPoint: 4, checkPoint: 7
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,399 > [virus.py][solve][80]: argFile: input.txt
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,400 > [virus.py][parseInput][160]: 1 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,402 > [virus.py][parseInput][160]: 2 3
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,403 > [virus.py][parseInput][160]: 1 5
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,404 > [virus.py][parseInput][160]: 5 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,406 > [virus.py][parseInput][160]: 5 6
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,407 > [virus.py][parseInput][160]: 4 7
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,408 > [virus.py][solve][90]: x: 1, y: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,409 > [virus.py][solve][90]: x: 2, y: 3
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,410 > [virus.py][solve][90]: x: 1, y: 5
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,412 > [virus.py][solve][90]: x: 5, y: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,413 > [virus.py][solve][90]: x: 5, y: 6
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,414 > [virus.py][solve][90]: x: 4, y: 7
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,415 > [virus.py][printMap][111]: [0, 1, 0, 0, 1, 0, 0]
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,417 > [virus.py][printMap][111]: [1, 0, 1, 0, 1, 0, 0]
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,419 > [virus.py][printMap][111]: [0, 1, 0, 0, 0, 0, 0]
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,422 > [virus.py][printMap][111]: [0, 0, 0, 0, 0, 0, 1]
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,423 > [virus.py][printMap][111]: [1, 1, 0, 0, 0, 1, 0]
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,425 > [virus.py][printMap][111]: [0, 0, 0, 0, 1, 0, 0]
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,426 > [virus.py][printMap][111]: [0, 0, 0, 1, 0, 0, 0]
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,427 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,429 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,431 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,437 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,439 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,441 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,444 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,448 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,451 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,454 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,458 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,462 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,470 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,474 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,483 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,488 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,494 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,523 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,533 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,539 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,550 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,556 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,564 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,570 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,577 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,584 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,591 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,602 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,614 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,623 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,649 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,657 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,672 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,685 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,695 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,705 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,717 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,727 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,740 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,781 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,792 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,806 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,823 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,834 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,848 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,860 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,901 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,913 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,926 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,948 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,962 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,975 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:11,988 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:12,007 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:12,038 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:12,052 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:12,070 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:12,089 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:12,103 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:12,117 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:12,162 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:12,177 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:12,192 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:12,215 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:12,232 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:12,248 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:12,272 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:12,301 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:12,321 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:12,348 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:12,368 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:12,385 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:12,429 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:12,447 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:12,470 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:12,493 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:12,510 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:12,562 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:12,579 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:12,707 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:12,751 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:12,771 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:12,815 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:12,852 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:13,005 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:13,061 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:13,082 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:13,102 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:13,145 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:13,171 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:13,219 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:13,243 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:13,275 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:13,298 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:13,332 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:13,355 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:13,378 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:13,422 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:13,449 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:13,478 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:13,502 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:13,555 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:13,583 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:13,613 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:13,636 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:13,693 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:13,721 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:13,752 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:13,776 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:13,825 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:13,853 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:13,885 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:13,947 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:13,972 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:14,011 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:14,037 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:14,095 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:14,125 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:14,159 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:14,210 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:14,237 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:14,276 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:14,305 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:14,362 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:14,399 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:14,430 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:14,484 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:14,518 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:14,553 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:14,610 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:14,640 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:14,675 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:14,729 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:14,765 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:14,795 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:14,858 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:14,898 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:14,932 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:14,995 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:15,034 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:15,067 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:15,120 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:15,163 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:15,202 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:15,250 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:15,293 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:15,360 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:15,393 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:15,437 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:15,496 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:15,533 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:15,572 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:15,633 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:15,672 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:15,739 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:15,781 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:15,819 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:15,892 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:15,931 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:15,994 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:16,040 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:16,100 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:16,136 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:16,182 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:16,242 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:16,281 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:16,324 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:16,387 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:16,433 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:16,503 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:16,541 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:16,611 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:16,661 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:16,731 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:16,779 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:16,821 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:16,890 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:16,936 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:16,998 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:17,042 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:17,105 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:17,144 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:17,194 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:17,262 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:17,323 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:17,395 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:17,439 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:17,519 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:17,561 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:17,628 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:17,682 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:17,747 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:17,796 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:17,864 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:17,922 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:17,993 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:18,040 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:18,116 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:18,166 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:45,799 > [virus.py][solve][80]: argFile: input.txt
+[DEBUG|virus.py:60] 2019-05-12 02:14:45,801 > [virus.py][parseInput][160]: 1 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:45,803 > [virus.py][parseInput][160]: 2 3
+[DEBUG|virus.py:60] 2019-05-12 02:14:45,804 > [virus.py][parseInput][160]: 1 5
+[DEBUG|virus.py:60] 2019-05-12 02:14:45,805 > [virus.py][parseInput][160]: 5 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:45,806 > [virus.py][parseInput][160]: 5 6
+[DEBUG|virus.py:60] 2019-05-12 02:14:45,808 > [virus.py][parseInput][160]: 4 7
+[DEBUG|virus.py:60] 2019-05-12 02:14:45,809 > [virus.py][solve][90]: x: 1, y: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:45,810 > [virus.py][solve][90]: x: 2, y: 3
+[DEBUG|virus.py:60] 2019-05-12 02:14:45,811 > [virus.py][solve][90]: x: 1, y: 5
+[DEBUG|virus.py:60] 2019-05-12 02:14:45,812 > [virus.py][solve][90]: x: 5, y: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:45,814 > [virus.py][solve][90]: x: 5, y: 6
+[DEBUG|virus.py:60] 2019-05-12 02:14:45,815 > [virus.py][solve][90]: x: 4, y: 7
+[DEBUG|virus.py:60] 2019-05-12 02:14:45,816 > [virus.py][printMap][111]: [0, 1, 0, 0, 1, 0, 0]
+[DEBUG|virus.py:60] 2019-05-12 02:14:45,818 > [virus.py][printMap][111]: [1, 0, 1, 0, 1, 0, 0]
+[DEBUG|virus.py:60] 2019-05-12 02:14:45,819 > [virus.py][printMap][111]: [0, 1, 0, 0, 0, 0, 0]
+[DEBUG|virus.py:60] 2019-05-12 02:14:45,822 > [virus.py][printMap][111]: [0, 0, 0, 0, 0, 0, 1]
+[DEBUG|virus.py:60] 2019-05-12 02:14:45,824 > [virus.py][printMap][111]: [1, 1, 0, 0, 0, 1, 0]
+[DEBUG|virus.py:60] 2019-05-12 02:14:45,825 > [virus.py][printMap][111]: [0, 0, 0, 0, 1, 0, 0]
+[DEBUG|virus.py:60] 2019-05-12 02:14:45,830 > [virus.py][printMap][111]: [0, 0, 0, 1, 0, 0, 0]
+[DEBUG|virus.py:60] 2019-05-12 02:14:45,831 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:14:45,833 > [virus.py][checkVirus][104]: startPoint: 2, checkPoint: 3
+[DEBUG|virus.py:60] 2019-05-12 02:14:45,862 > [virus.py][checkVirus][104]: startPoint: 2, checkPoint: 5
+[DEBUG|virus.py:60] 2019-05-12 02:14:45,865 > [virus.py][checkVirus][104]: startPoint: 5, checkPoint: 6
+[DEBUG|virus.py:60] 2019-05-12 02:14:45,867 > [virus.py][checkVirus][104]: startPoint: 1, checkPoint: 5
+[DEBUG|virus.py:60] 2019-05-12 02:14:45,869 > [virus.py][checkVirus][104]: startPoint: 5, checkPoint: 6
+[DEBUG|virus.py:60] 2019-05-12 02:17:49,568 > [virus.py][solve][80]: argFile: input.txt
+[DEBUG|virus.py:60] 2019-05-12 02:17:49,570 > [virus.py][parseInput][161]: 1 2
+[DEBUG|virus.py:60] 2019-05-12 02:17:49,571 > [virus.py][parseInput][161]: 2 3
+[DEBUG|virus.py:60] 2019-05-12 02:17:49,573 > [virus.py][parseInput][161]: 1 5
+[DEBUG|virus.py:60] 2019-05-12 02:17:49,574 > [virus.py][parseInput][161]: 5 2
+[DEBUG|virus.py:60] 2019-05-12 02:17:49,575 > [virus.py][parseInput][161]: 5 6
+[DEBUG|virus.py:60] 2019-05-12 02:17:49,576 > [virus.py][parseInput][161]: 4 7
+[DEBUG|virus.py:60] 2019-05-12 02:17:49,578 > [virus.py][solve][90]: x: 1, y: 2
+[DEBUG|virus.py:60] 2019-05-12 02:17:49,579 > [virus.py][solve][90]: x: 2, y: 3
+[DEBUG|virus.py:60] 2019-05-12 02:17:49,580 > [virus.py][solve][90]: x: 1, y: 5
+[DEBUG|virus.py:60] 2019-05-12 02:17:49,581 > [virus.py][solve][90]: x: 5, y: 2
+[DEBUG|virus.py:60] 2019-05-12 02:17:49,584 > [virus.py][solve][90]: x: 5, y: 6
+[DEBUG|virus.py:60] 2019-05-12 02:17:49,586 > [virus.py][solve][90]: x: 4, y: 7
+[DEBUG|virus.py:60] 2019-05-12 02:17:49,587 > [virus.py][printMap][112]: [0, 1, 0, 0, 1, 0, 0]
+[DEBUG|virus.py:60] 2019-05-12 02:17:49,589 > [virus.py][printMap][112]: [1, 0, 1, 0, 1, 0, 0]
+[DEBUG|virus.py:60] 2019-05-12 02:17:49,590 > [virus.py][printMap][112]: [0, 1, 0, 0, 0, 0, 0]
+[DEBUG|virus.py:60] 2019-05-12 02:17:49,591 > [virus.py][printMap][112]: [0, 0, 0, 0, 0, 0, 1]
+[DEBUG|virus.py:60] 2019-05-12 02:17:49,593 > [virus.py][printMap][112]: [1, 1, 0, 0, 0, 1, 0]
+[DEBUG|virus.py:60] 2019-05-12 02:17:49,594 > [virus.py][printMap][112]: [0, 0, 0, 0, 1, 0, 0]
+[DEBUG|virus.py:60] 2019-05-12 02:17:49,597 > [virus.py][printMap][112]: [0, 0, 0, 1, 0, 0, 0]
+[DEBUG|virus.py:60] 2019-05-12 02:17:49,599 > [virus.py][checkVirus][101]: Called Point: 1
+[DEBUG|virus.py:60] 2019-05-12 02:17:49,600 > [virus.py][checkVirus][105]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:60] 2019-05-12 02:17:49,601 > [virus.py][checkVirus][101]: Called Point: 2
+[DEBUG|virus.py:60] 2019-05-12 02:17:49,603 > [virus.py][checkVirus][105]: startPoint: 2, checkPoint: 3
+[DEBUG|virus.py:60] 2019-05-12 02:17:49,604 > [virus.py][checkVirus][101]: Called Point: 3
+[DEBUG|virus.py:60] 2019-05-12 02:17:49,606 > [virus.py][checkVirus][105]: startPoint: 2, checkPoint: 5
+[DEBUG|virus.py:60] 2019-05-12 02:17:49,609 > [virus.py][checkVirus][101]: Called Point: 5
+[DEBUG|virus.py:60] 2019-05-12 02:17:49,610 > [virus.py][checkVirus][105]: startPoint: 5, checkPoint: 6
+[DEBUG|virus.py:60] 2019-05-12 02:17:49,612 > [virus.py][checkVirus][101]: Called Point: 6
+[DEBUG|virus.py:60] 2019-05-12 02:17:49,614 > [virus.py][checkVirus][105]: startPoint: 1, checkPoint: 5
+[DEBUG|virus.py:60] 2019-05-12 02:17:49,616 > [virus.py][checkVirus][101]: Called Point: 5
+[DEBUG|virus.py:60] 2019-05-12 02:17:49,617 > [virus.py][checkVirus][105]: startPoint: 5, checkPoint: 6
+[DEBUG|virus.py:60] 2019-05-12 02:17:49,620 > [virus.py][checkVirus][101]: Called Point: 6
+[DEBUG|virus.py:63] 2019-05-12 02:24:17,129 > [virus.py][solve][83]: argFile: input.txt
+[DEBUG|virus.py:63] 2019-05-12 02:24:17,132 > [virus.py][parseInput][168]: 1 2
+[DEBUG|virus.py:63] 2019-05-12 02:24:17,133 > [virus.py][parseInput][168]: 2 3
+[DEBUG|virus.py:63] 2019-05-12 02:24:17,135 > [virus.py][parseInput][168]: 1 5
+[DEBUG|virus.py:63] 2019-05-12 02:24:17,137 > [virus.py][parseInput][168]: 5 2
+[DEBUG|virus.py:63] 2019-05-12 02:24:17,138 > [virus.py][parseInput][168]: 5 6
+[DEBUG|virus.py:63] 2019-05-12 02:24:17,139 > [virus.py][parseInput][168]: 4 7
+[DEBUG|virus.py:63] 2019-05-12 02:24:17,141 > [virus.py][solve][94]: x: 1, y: 2
+[DEBUG|virus.py:63] 2019-05-12 02:24:17,142 > [virus.py][solve][94]: x: 2, y: 3
+[DEBUG|virus.py:63] 2019-05-12 02:24:17,143 > [virus.py][solve][94]: x: 1, y: 5
+[DEBUG|virus.py:63] 2019-05-12 02:24:17,144 > [virus.py][solve][94]: x: 5, y: 2
+[DEBUG|virus.py:63] 2019-05-12 02:24:17,145 > [virus.py][solve][94]: x: 5, y: 6
+[DEBUG|virus.py:63] 2019-05-12 02:24:17,146 > [virus.py][solve][94]: x: 4, y: 7
+[DEBUG|virus.py:63] 2019-05-12 02:24:17,147 > [virus.py][printMap][119]: [0, 1, 0, 0, 1, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:24:17,150 > [virus.py][printMap][119]: [1, 0, 1, 0, 1, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:24:17,151 > [virus.py][printMap][119]: [0, 1, 0, 0, 0, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:24:17,153 > [virus.py][printMap][119]: [0, 0, 0, 0, 0, 0, 1]
+[DEBUG|virus.py:63] 2019-05-12 02:24:17,155 > [virus.py][printMap][119]: [1, 1, 0, 0, 0, 1, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:24:17,156 > [virus.py][printMap][119]: [0, 0, 0, 0, 1, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:24:17,158 > [virus.py][printMap][119]: [0, 0, 0, 1, 0, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:24:17,159 > [virus.py][checkVirus][105]: Called Point: 1
+[DEBUG|virus.py:63] 2019-05-12 02:24:17,161 > [virus.py][checkVirus][109]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:63] 2019-05-12 02:24:17,163 > [virus.py][checkVirus][105]: Called Point: 2
+[DEBUG|virus.py:63] 2019-05-12 02:24:17,165 > [virus.py][checkVirus][109]: startPoint: 2, checkPoint: 3
+[DEBUG|virus.py:63] 2019-05-12 02:24:17,167 > [virus.py][checkVirus][105]: Called Point: 3
+[DEBUG|virus.py:63] 2019-05-12 02:24:17,168 > [virus.py][checkVirus][109]: startPoint: 2, checkPoint: 5
+[DEBUG|virus.py:63] 2019-05-12 02:24:17,171 > [virus.py][checkVirus][105]: Called Point: 5
+[DEBUG|virus.py:63] 2019-05-12 02:24:17,173 > [virus.py][checkVirus][109]: startPoint: 5, checkPoint: 6
+[DEBUG|virus.py:63] 2019-05-12 02:24:17,175 > [virus.py][checkVirus][105]: Called Point: 6
+[DEBUG|virus.py:63] 2019-05-12 02:24:17,176 > [virus.py][checkVirus][109]: startPoint: 1, checkPoint: 5
+[DEBUG|virus.py:63] 2019-05-12 02:24:17,177 > [virus.py][checkVirus][105]: Called Point: 5
+[DEBUG|virus.py:63] 2019-05-12 02:24:17,179 > [virus.py][checkVirus][109]: startPoint: 5, checkPoint: 6
+[DEBUG|virus.py:63] 2019-05-12 02:25:45,612 > [virus.py][solve][83]: argFile: input.txt
+[DEBUG|virus.py:63] 2019-05-12 02:25:45,615 > [virus.py][parseInput][169]: 1 2
+[DEBUG|virus.py:63] 2019-05-12 02:25:45,616 > [virus.py][parseInput][169]: 2 3
+[DEBUG|virus.py:63] 2019-05-12 02:25:45,617 > [virus.py][parseInput][169]: 1 5
+[DEBUG|virus.py:63] 2019-05-12 02:25:45,619 > [virus.py][parseInput][169]: 5 2
+[DEBUG|virus.py:63] 2019-05-12 02:25:45,620 > [virus.py][parseInput][169]: 5 6
+[DEBUG|virus.py:63] 2019-05-12 02:25:45,621 > [virus.py][parseInput][169]: 4 7
+[DEBUG|virus.py:63] 2019-05-12 02:25:45,622 > [virus.py][solve][94]: x: 1, y: 2
+[DEBUG|virus.py:63] 2019-05-12 02:25:45,623 > [virus.py][solve][94]: x: 2, y: 3
+[DEBUG|virus.py:63] 2019-05-12 02:25:45,624 > [virus.py][solve][94]: x: 1, y: 5
+[DEBUG|virus.py:63] 2019-05-12 02:25:45,626 > [virus.py][solve][94]: x: 5, y: 2
+[DEBUG|virus.py:63] 2019-05-12 02:25:45,627 > [virus.py][solve][94]: x: 5, y: 6
+[DEBUG|virus.py:63] 2019-05-12 02:25:45,628 > [virus.py][solve][94]: x: 4, y: 7
+[DEBUG|virus.py:63] 2019-05-12 02:25:45,630 > [virus.py][printMap][120]: [0, 1, 0, 0, 1, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:25:45,632 > [virus.py][printMap][120]: [1, 0, 1, 0, 1, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:25:45,634 > [virus.py][printMap][120]: [0, 1, 0, 0, 0, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:25:45,635 > [virus.py][printMap][120]: [0, 0, 0, 0, 0, 0, 1]
+[DEBUG|virus.py:63] 2019-05-12 02:25:45,637 > [virus.py][printMap][120]: [1, 1, 0, 0, 0, 1, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:25:45,639 > [virus.py][printMap][120]: [0, 0, 0, 0, 1, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:25:45,641 > [virus.py][printMap][120]: [0, 0, 0, 1, 0, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:25:45,642 > [virus.py][checkVirus][105]: Called Point: 1
+[DEBUG|virus.py:63] 2019-05-12 02:25:45,643 > [virus.py][checkVirus][109]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:63] 2019-05-12 02:25:45,645 > [virus.py][checkVirus][105]: Called Point: 2
+[DEBUG|virus.py:63] 2019-05-12 02:25:45,647 > [virus.py][checkVirus][109]: startPoint: 2, checkPoint: 3
+[DEBUG|virus.py:63] 2019-05-12 02:25:45,648 > [virus.py][checkVirus][105]: Called Point: 3
+[DEBUG|virus.py:63] 2019-05-12 02:25:45,652 > [virus.py][checkVirus][109]: startPoint: 2, checkPoint: 5
+[DEBUG|virus.py:63] 2019-05-12 02:25:45,654 > [virus.py][checkVirus][105]: Called Point: 5
+[DEBUG|virus.py:63] 2019-05-12 02:25:45,655 > [virus.py][checkVirus][109]: startPoint: 5, checkPoint: 6
+[DEBUG|virus.py:63] 2019-05-12 02:25:45,657 > [virus.py][checkVirus][105]: Called Point: 6
+[DEBUG|virus.py:63] 2019-05-12 02:25:45,659 > [virus.py][checkVirus][109]: startPoint: 1, checkPoint: 5
+[DEBUG|virus.py:63] 2019-05-12 02:25:45,660 > [virus.py][checkVirus][105]: Called Point: 5
+[DEBUG|virus.py:63] 2019-05-12 02:25:45,663 > [virus.py][checkVirus][109]: startPoint: 5, checkPoint: 6
+[DEBUG|virus.py:63] 2019-05-12 02:28:29,871 > [virus.py][solve][83]: argFile: input.txt
+[DEBUG|virus.py:63] 2019-05-12 02:28:29,873 > [virus.py][parseInput][168]: 1 2
+[DEBUG|virus.py:63] 2019-05-12 02:28:29,875 > [virus.py][parseInput][168]: 2 3
+[DEBUG|virus.py:63] 2019-05-12 02:28:29,876 > [virus.py][parseInput][168]: 1 5
+[DEBUG|virus.py:63] 2019-05-12 02:28:29,878 > [virus.py][parseInput][168]: 5 2
+[DEBUG|virus.py:63] 2019-05-12 02:28:29,879 > [virus.py][parseInput][168]: 5 6
+[DEBUG|virus.py:63] 2019-05-12 02:28:29,881 > [virus.py][parseInput][168]: 4 7
+[DEBUG|virus.py:63] 2019-05-12 02:28:29,882 > [virus.py][solve][94]: x: 1, y: 2
+[DEBUG|virus.py:63] 2019-05-12 02:28:29,890 > [virus.py][solve][94]: x: 2, y: 3
+[DEBUG|virus.py:63] 2019-05-12 02:28:29,891 > [virus.py][solve][94]: x: 1, y: 5
+[DEBUG|virus.py:63] 2019-05-12 02:28:29,893 > [virus.py][solve][94]: x: 5, y: 2
+[DEBUG|virus.py:63] 2019-05-12 02:28:29,894 > [virus.py][solve][94]: x: 5, y: 6
+[DEBUG|virus.py:63] 2019-05-12 02:28:29,895 > [virus.py][solve][94]: x: 4, y: 7
+[DEBUG|virus.py:63] 2019-05-12 02:28:29,898 > [virus.py][printMap][119]: [0, 1, 0, 0, 1, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:28:29,900 > [virus.py][printMap][119]: [1, 0, 1, 0, 1, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:28:29,901 > [virus.py][printMap][119]: [0, 1, 0, 0, 0, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:28:29,903 > [virus.py][printMap][119]: [0, 0, 0, 0, 0, 0, 1]
+[DEBUG|virus.py:63] 2019-05-12 02:28:29,905 > [virus.py][printMap][119]: [1, 1, 0, 0, 0, 1, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:28:29,907 > [virus.py][printMap][119]: [0, 0, 0, 0, 1, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:28:29,908 > [virus.py][printMap][119]: [0, 0, 0, 1, 0, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:28:29,910 > [virus.py][checkVirus][106]: Called Point: 1
+[DEBUG|virus.py:63] 2019-05-12 02:28:29,911 > [virus.py][checkVirus][110]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:63] 2019-05-12 02:28:29,913 > [virus.py][checkVirus][106]: Called Point: 2
+[DEBUG|virus.py:63] 2019-05-12 02:28:29,915 > [virus.py][checkVirus][110]: startPoint: 2, checkPoint: 3
+[DEBUG|virus.py:63] 2019-05-12 02:28:29,917 > [virus.py][checkVirus][106]: Called Point: 3
+[DEBUG|virus.py:63] 2019-05-12 02:28:29,919 > [virus.py][checkVirus][110]: startPoint: 2, checkPoint: 5
+[DEBUG|virus.py:63] 2019-05-12 02:28:29,920 > [virus.py][checkVirus][106]: Called Point: 5
+[DEBUG|virus.py:63] 2019-05-12 02:28:29,922 > [virus.py][checkVirus][110]: startPoint: 5, checkPoint: 6
+[DEBUG|virus.py:63] 2019-05-12 02:28:29,925 > [virus.py][checkVirus][106]: Called Point: 6
+[DEBUG|virus.py:63] 2019-05-12 02:28:29,926 > [virus.py][checkVirus][110]: startPoint: 1, checkPoint: 5
+[DEBUG|virus.py:63] 2019-05-12 02:28:29,928 > [virus.py][checkVirus][106]: Called Point: 5
+[DEBUG|virus.py:63] 2019-05-12 02:28:29,930 > [virus.py][checkVirus][110]: startPoint: 5, checkPoint: 6
+[DEBUG|virus.py:63] 2019-05-12 02:28:29,931 > [virus.py][printMap][119]: [0, 1, 0, 0, 1, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:28:29,937 > [virus.py][printMap][119]: [0, 0, 1, 0, 1, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:28:29,939 > [virus.py][printMap][119]: [0, 0, 0, 0, 0, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:28:29,940 > [virus.py][printMap][119]: [0, 0, 0, 0, 0, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:28:29,941 > [virus.py][printMap][119]: [0, 0, 0, 0, 0, 1, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:28:29,942 > [virus.py][printMap][119]: [0, 0, 0, 0, 0, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:28:29,949 > [virus.py][printMap][119]: [0, 0, 0, 0, 0, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:36:01,167 > [virus.py][solve][83]: argFile: input.txt
+[DEBUG|virus.py:63] 2019-05-12 02:36:01,171 > [virus.py][parseInput][169]: 1 2
+[DEBUG|virus.py:63] 2019-05-12 02:36:01,173 > [virus.py][parseInput][169]: 2 3
+[DEBUG|virus.py:63] 2019-05-12 02:36:01,174 > [virus.py][parseInput][169]: 1 5
+[DEBUG|virus.py:63] 2019-05-12 02:36:01,176 > [virus.py][parseInput][169]: 5 2
+[DEBUG|virus.py:63] 2019-05-12 02:36:01,180 > [virus.py][parseInput][169]: 5 6
+[DEBUG|virus.py:63] 2019-05-12 02:36:01,183 > [virus.py][parseInput][169]: 4 7
+[DEBUG|virus.py:63] 2019-05-12 02:36:01,185 > [virus.py][solve][95]: x: 1, y: 2
+[DEBUG|virus.py:63] 2019-05-12 02:36:01,186 > [virus.py][solve][95]: x: 2, y: 3
+[DEBUG|virus.py:63] 2019-05-12 02:36:01,188 > [virus.py][solve][95]: x: 1, y: 5
+[DEBUG|virus.py:63] 2019-05-12 02:36:01,190 > [virus.py][solve][95]: x: 5, y: 2
+[DEBUG|virus.py:63] 2019-05-12 02:36:01,191 > [virus.py][solve][95]: x: 5, y: 6
+[DEBUG|virus.py:63] 2019-05-12 02:36:01,192 > [virus.py][solve][95]: x: 4, y: 7
+[DEBUG|virus.py:63] 2019-05-12 02:36:01,194 > [virus.py][printMap][120]: [0, 1, 0, 0, 1, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:36:01,195 > [virus.py][printMap][120]: [1, 0, 1, 0, 1, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:36:01,197 > [virus.py][printMap][120]: [0, 1, 0, 0, 0, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:36:01,198 > [virus.py][printMap][120]: [0, 0, 0, 0, 0, 0, 1]
+[DEBUG|virus.py:63] 2019-05-12 02:36:01,200 > [virus.py][printMap][120]: [1, 1, 0, 0, 0, 1, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:36:01,202 > [virus.py][printMap][120]: [0, 0, 0, 0, 1, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:36:01,203 > [virus.py][printMap][120]: [0, 0, 0, 1, 0, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:36:01,205 > [virus.py][checkVirus][107]: Called Point: 1
+[DEBUG|virus.py:63] 2019-05-12 02:36:01,206 > [virus.py][checkVirus][111]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:63] 2019-05-12 02:36:43,484 > [virus.py][solve][83]: argFile: input.txt
+[DEBUG|virus.py:63] 2019-05-12 02:36:43,486 > [virus.py][parseInput][169]: 1 2
+[DEBUG|virus.py:63] 2019-05-12 02:36:43,489 > [virus.py][parseInput][169]: 2 3
+[DEBUG|virus.py:63] 2019-05-12 02:36:43,491 > [virus.py][parseInput][169]: 1 5
+[DEBUG|virus.py:63] 2019-05-12 02:36:43,546 > [virus.py][parseInput][169]: 5 2
+[DEBUG|virus.py:63] 2019-05-12 02:36:43,548 > [virus.py][parseInput][169]: 5 6
+[DEBUG|virus.py:63] 2019-05-12 02:36:43,550 > [virus.py][parseInput][169]: 4 7
+[DEBUG|virus.py:63] 2019-05-12 02:36:43,552 > [virus.py][solve][95]: x: 1, y: 2
+[DEBUG|virus.py:63] 2019-05-12 02:36:43,553 > [virus.py][solve][95]: x: 2, y: 3
+[DEBUG|virus.py:63] 2019-05-12 02:36:43,556 > [virus.py][solve][95]: x: 1, y: 5
+[DEBUG|virus.py:63] 2019-05-12 02:36:43,557 > [virus.py][solve][95]: x: 5, y: 2
+[DEBUG|virus.py:63] 2019-05-12 02:36:43,613 > [virus.py][solve][95]: x: 5, y: 6
+[DEBUG|virus.py:63] 2019-05-12 02:36:43,615 > [virus.py][solve][95]: x: 4, y: 7
+[DEBUG|virus.py:63] 2019-05-12 02:36:43,617 > [virus.py][printMap][120]: [0, 1, 0, 0, 1, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:36:43,674 > [virus.py][printMap][120]: [1, 0, 1, 0, 1, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:36:43,681 > [virus.py][printMap][120]: [0, 1, 0, 0, 0, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:36:43,683 > [virus.py][printMap][120]: [0, 0, 0, 0, 0, 0, 1]
+[DEBUG|virus.py:63] 2019-05-12 02:36:43,684 > [virus.py][printMap][120]: [1, 1, 0, 0, 0, 1, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:36:43,686 > [virus.py][printMap][120]: [0, 0, 0, 0, 1, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:36:43,687 > [virus.py][printMap][120]: [0, 0, 0, 1, 0, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:36:43,689 > [virus.py][checkVirus][107]: Called Point: 1
+[DEBUG|virus.py:63] 2019-05-12 02:36:43,691 > [virus.py][checkVirus][111]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:63] 2019-05-12 02:36:43,692 > [virus.py][checkVirus][111]: startPoint: 1, checkPoint: 5
+[DEBUG|virus.py:63] 2019-05-12 02:39:02,277 > [virus.py][solve][83]: argFile: input.txt
+[DEBUG|virus.py:63] 2019-05-12 02:39:02,280 > [virus.py][parseInput][170]: 1 2
+[DEBUG|virus.py:63] 2019-05-12 02:39:02,282 > [virus.py][parseInput][170]: 2 3
+[DEBUG|virus.py:63] 2019-05-12 02:39:02,283 > [virus.py][parseInput][170]: 1 5
+[DEBUG|virus.py:63] 2019-05-12 02:39:02,285 > [virus.py][parseInput][170]: 5 2
+[DEBUG|virus.py:63] 2019-05-12 02:39:02,286 > [virus.py][parseInput][170]: 5 6
+[DEBUG|virus.py:63] 2019-05-12 02:39:02,288 > [virus.py][parseInput][170]: 4 7
+[DEBUG|virus.py:63] 2019-05-12 02:39:02,289 > [virus.py][solve][95]: x: 1, y: 2
+[DEBUG|virus.py:63] 2019-05-12 02:39:02,290 > [virus.py][solve][95]: x: 2, y: 3
+[DEBUG|virus.py:63] 2019-05-12 02:39:02,292 > [virus.py][solve][95]: x: 1, y: 5
+[DEBUG|virus.py:63] 2019-05-12 02:39:02,293 > [virus.py][solve][95]: x: 5, y: 2
+[DEBUG|virus.py:63] 2019-05-12 02:39:02,295 > [virus.py][solve][95]: x: 5, y: 6
+[DEBUG|virus.py:63] 2019-05-12 02:39:02,296 > [virus.py][solve][95]: x: 4, y: 7
+[DEBUG|virus.py:63] 2019-05-12 02:39:02,297 > [virus.py][printMap][121]: [0, 1, 0, 0, 1, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:39:02,299 > [virus.py][printMap][121]: [1, 0, 1, 0, 1, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:39:02,301 > [virus.py][printMap][121]: [0, 1, 0, 0, 0, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:39:02,303 > [virus.py][printMap][121]: [0, 0, 0, 0, 0, 0, 1]
+[DEBUG|virus.py:63] 2019-05-12 02:39:02,304 > [virus.py][printMap][121]: [1, 1, 0, 0, 0, 1, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:39:02,306 > [virus.py][printMap][121]: [0, 0, 0, 0, 1, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:39:02,307 > [virus.py][printMap][121]: [0, 0, 0, 1, 0, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:39:02,308 > [virus.py][printMap][121]: [0, 0, 0, 0, 0, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:39:02,310 > [virus.py][checkVirus][108]: Called Point: 1
+[DEBUG|virus.py:63] 2019-05-12 02:39:02,317 > [virus.py][checkVirus][112]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:63] 2019-05-12 02:39:02,319 > [virus.py][checkVirus][112]: startPoint: 1, checkPoint: 5
+[DEBUG|virus.py:63] 2019-05-12 02:40:52,104 > [virus.py][solve][83]: argFile: input.txt
+[DEBUG|virus.py:63] 2019-05-12 02:40:52,107 > [virus.py][parseInput][170]: 1 2
+[DEBUG|virus.py:63] 2019-05-12 02:40:52,108 > [virus.py][parseInput][170]: 2 3
+[DEBUG|virus.py:63] 2019-05-12 02:40:52,109 > [virus.py][parseInput][170]: 1 5
+[DEBUG|virus.py:63] 2019-05-12 02:40:52,111 > [virus.py][parseInput][170]: 5 2
+[DEBUG|virus.py:63] 2019-05-12 02:40:52,113 > [virus.py][parseInput][170]: 5 6
+[DEBUG|virus.py:63] 2019-05-12 02:40:52,114 > [virus.py][parseInput][170]: 4 7
+[DEBUG|virus.py:63] 2019-05-12 02:40:52,116 > [virus.py][solve][95]: x: 1, y: 2
+[DEBUG|virus.py:63] 2019-05-12 02:40:52,117 > [virus.py][solve][95]: x: 2, y: 3
+[DEBUG|virus.py:63] 2019-05-12 02:40:52,118 > [virus.py][solve][95]: x: 1, y: 5
+[DEBUG|virus.py:63] 2019-05-12 02:40:52,121 > [virus.py][solve][95]: x: 5, y: 2
+[DEBUG|virus.py:63] 2019-05-12 02:40:52,122 > [virus.py][solve][95]: x: 5, y: 6
+[DEBUG|virus.py:63] 2019-05-12 02:40:52,124 > [virus.py][solve][95]: x: 4, y: 7
+[DEBUG|virus.py:63] 2019-05-12 02:40:52,126 > [virus.py][printMap][121]: [0, 1, 0, 0, 1, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:40:52,128 > [virus.py][printMap][121]: [1, 0, 1, 0, 1, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:40:52,129 > [virus.py][printMap][121]: [0, 1, 0, 0, 0, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:40:52,131 > [virus.py][printMap][121]: [0, 0, 0, 0, 0, 0, 1]
+[DEBUG|virus.py:63] 2019-05-12 02:40:52,132 > [virus.py][printMap][121]: [1, 1, 0, 0, 0, 1, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:40:52,134 > [virus.py][printMap][121]: [0, 0, 0, 0, 1, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:40:52,136 > [virus.py][printMap][121]: [0, 0, 0, 1, 0, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:40:52,137 > [virus.py][printMap][121]: [0, 0, 0, 0, 0, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:40:52,139 > [virus.py][checkVirus][108]: Called Point: 1
+[DEBUG|virus.py:63] 2019-05-12 02:40:52,140 > [virus.py][checkVirus][112]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:63] 2019-05-12 02:40:52,142 > [virus.py][checkVirus][108]: Called Point: 2
+[DEBUG|virus.py:63] 2019-05-12 02:40:52,144 > [virus.py][checkVirus][112]: startPoint: 2, checkPoint: 3
+[DEBUG|virus.py:63] 2019-05-12 02:41:36,002 > [virus.py][solve][83]: argFile: input.txt
+[DEBUG|virus.py:63] 2019-05-12 02:41:36,004 > [virus.py][parseInput][170]: 1 2
+[DEBUG|virus.py:63] 2019-05-12 02:41:36,006 > [virus.py][parseInput][170]: 2 3
+[DEBUG|virus.py:63] 2019-05-12 02:41:36,008 > [virus.py][parseInput][170]: 1 5
+[DEBUG|virus.py:63] 2019-05-12 02:41:36,010 > [virus.py][parseInput][170]: 5 2
+[DEBUG|virus.py:63] 2019-05-12 02:41:36,012 > [virus.py][parseInput][170]: 5 6
+[DEBUG|virus.py:63] 2019-05-12 02:41:36,014 > [virus.py][parseInput][170]: 4 7
+[DEBUG|virus.py:63] 2019-05-12 02:41:36,018 > [virus.py][solve][95]: x: 1, y: 2
+[DEBUG|virus.py:63] 2019-05-12 02:41:36,019 > [virus.py][solve][95]: x: 2, y: 3
+[DEBUG|virus.py:63] 2019-05-12 02:41:36,022 > [virus.py][solve][95]: x: 1, y: 5
+[DEBUG|virus.py:63] 2019-05-12 02:41:36,023 > [virus.py][solve][95]: x: 5, y: 2
+[DEBUG|virus.py:63] 2019-05-12 02:41:36,024 > [virus.py][solve][95]: x: 5, y: 6
+[DEBUG|virus.py:63] 2019-05-12 02:41:36,030 > [virus.py][solve][95]: x: 4, y: 7
+[DEBUG|virus.py:63] 2019-05-12 02:41:36,032 > [virus.py][printMap][121]: [0, 1, 0, 0, 1, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:41:36,034 > [virus.py][printMap][121]: [1, 0, 1, 0, 1, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:41:36,035 > [virus.py][printMap][121]: [0, 1, 0, 0, 0, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:41:36,037 > [virus.py][printMap][121]: [0, 0, 0, 0, 0, 0, 1]
+[DEBUG|virus.py:63] 2019-05-12 02:41:36,038 > [virus.py][printMap][121]: [1, 1, 0, 0, 0, 1, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:41:36,040 > [virus.py][printMap][121]: [0, 0, 0, 0, 1, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:41:36,041 > [virus.py][printMap][121]: [0, 0, 0, 1, 0, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:41:36,043 > [virus.py][printMap][121]: [0, 0, 0, 0, 0, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:41:36,045 > [virus.py][checkVirus][108]: Called Point: 1
+[DEBUG|virus.py:63] 2019-05-12 02:41:36,046 > [virus.py][checkVirus][112]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:63] 2019-05-12 02:41:50,970 > [virus.py][solve][83]: argFile: input.txt
+[DEBUG|virus.py:63] 2019-05-12 02:41:50,972 > [virus.py][parseInput][170]: 1 2
+[DEBUG|virus.py:63] 2019-05-12 02:41:50,974 > [virus.py][parseInput][170]: 2 3
+[DEBUG|virus.py:63] 2019-05-12 02:41:50,975 > [virus.py][parseInput][170]: 1 5
+[DEBUG|virus.py:63] 2019-05-12 02:41:50,977 > [virus.py][parseInput][170]: 5 2
+[DEBUG|virus.py:63] 2019-05-12 02:41:50,978 > [virus.py][parseInput][170]: 5 6
+[DEBUG|virus.py:63] 2019-05-12 02:41:50,980 > [virus.py][parseInput][170]: 4 7
+[DEBUG|virus.py:63] 2019-05-12 02:41:50,982 > [virus.py][solve][95]: x: 1, y: 2
+[DEBUG|virus.py:63] 2019-05-12 02:41:50,984 > [virus.py][solve][95]: x: 2, y: 3
+[DEBUG|virus.py:63] 2019-05-12 02:41:50,985 > [virus.py][solve][95]: x: 1, y: 5
+[DEBUG|virus.py:63] 2019-05-12 02:41:50,987 > [virus.py][solve][95]: x: 5, y: 2
+[DEBUG|virus.py:63] 2019-05-12 02:41:50,988 > [virus.py][solve][95]: x: 5, y: 6
+[DEBUG|virus.py:63] 2019-05-12 02:41:50,989 > [virus.py][solve][95]: x: 4, y: 7
+[DEBUG|virus.py:63] 2019-05-12 02:41:50,991 > [virus.py][printMap][121]: [0, 1, 0, 0, 1, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:41:50,992 > [virus.py][printMap][121]: [1, 0, 1, 0, 1, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:41:50,994 > [virus.py][printMap][121]: [0, 1, 0, 0, 0, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:41:50,996 > [virus.py][printMap][121]: [0, 0, 0, 0, 0, 0, 1]
+[DEBUG|virus.py:63] 2019-05-12 02:41:50,997 > [virus.py][printMap][121]: [1, 1, 0, 0, 0, 1, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:41:50,999 > [virus.py][printMap][121]: [0, 0, 0, 0, 1, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:41:51,001 > [virus.py][printMap][121]: [0, 0, 0, 1, 0, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:41:51,002 > [virus.py][printMap][121]: [0, 0, 0, 0, 0, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:41:51,003 > [virus.py][checkVirus][108]: Called Point: 1
+[DEBUG|virus.py:63] 2019-05-12 02:41:51,004 > [virus.py][checkVirus][112]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:63] 2019-05-12 02:43:16,869 > [virus.py][solve][83]: argFile: input.txt
+[DEBUG|virus.py:63] 2019-05-12 02:43:16,871 > [virus.py][parseInput][170]: 1 2
+[DEBUG|virus.py:63] 2019-05-12 02:43:16,872 > [virus.py][parseInput][170]: 2 3
+[DEBUG|virus.py:63] 2019-05-12 02:43:16,874 > [virus.py][parseInput][170]: 1 5
+[DEBUG|virus.py:63] 2019-05-12 02:43:16,875 > [virus.py][parseInput][170]: 5 2
+[DEBUG|virus.py:63] 2019-05-12 02:43:16,876 > [virus.py][parseInput][170]: 5 6
+[DEBUG|virus.py:63] 2019-05-12 02:43:16,878 > [virus.py][parseInput][170]: 4 7
+[DEBUG|virus.py:63] 2019-05-12 02:43:16,880 > [virus.py][solve][95]: x: 1, y: 2
+[DEBUG|virus.py:63] 2019-05-12 02:43:16,882 > [virus.py][solve][95]: x: 2, y: 3
+[DEBUG|virus.py:63] 2019-05-12 02:43:16,883 > [virus.py][solve][95]: x: 1, y: 5
+[DEBUG|virus.py:63] 2019-05-12 02:43:16,884 > [virus.py][solve][95]: x: 5, y: 2
+[DEBUG|virus.py:63] 2019-05-12 02:43:16,885 > [virus.py][solve][95]: x: 5, y: 6
+[DEBUG|virus.py:63] 2019-05-12 02:43:16,890 > [virus.py][solve][95]: x: 4, y: 7
+[DEBUG|virus.py:63] 2019-05-12 02:43:16,891 > [virus.py][printMap][121]: [0, 1, 0, 0, 1, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:43:16,893 > [virus.py][printMap][121]: [1, 0, 1, 0, 1, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:43:16,894 > [virus.py][printMap][121]: [0, 1, 0, 0, 0, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:43:16,895 > [virus.py][printMap][121]: [0, 0, 0, 0, 0, 0, 1]
+[DEBUG|virus.py:63] 2019-05-12 02:43:16,897 > [virus.py][printMap][121]: [1, 1, 0, 0, 0, 1, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:43:16,898 > [virus.py][printMap][121]: [0, 0, 0, 0, 1, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:43:16,899 > [virus.py][printMap][121]: [0, 0, 0, 1, 0, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:43:16,902 > [virus.py][printMap][121]: [0, 0, 0, 0, 0, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:43:16,903 > [virus.py][checkVirus][108]: Called Point: 1
+[DEBUG|virus.py:63] 2019-05-12 02:43:16,907 > [virus.py][checkVirus][112]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:63] 2019-05-12 02:44:12,277 > [virus.py][solve][83]: argFile: input.txt
+[DEBUG|virus.py:63] 2019-05-12 02:44:12,280 > [virus.py][parseInput][170]: 1 2
+[DEBUG|virus.py:63] 2019-05-12 02:44:12,281 > [virus.py][parseInput][170]: 2 3
+[DEBUG|virus.py:63] 2019-05-12 02:44:12,283 > [virus.py][parseInput][170]: 1 5
+[DEBUG|virus.py:63] 2019-05-12 02:44:12,284 > [virus.py][parseInput][170]: 5 2
+[DEBUG|virus.py:63] 2019-05-12 02:44:12,285 > [virus.py][parseInput][170]: 5 6
+[DEBUG|virus.py:63] 2019-05-12 02:44:12,286 > [virus.py][parseInput][170]: 4 7
+[DEBUG|virus.py:63] 2019-05-12 02:44:12,288 > [virus.py][solve][95]: x: 1, y: 2
+[DEBUG|virus.py:63] 2019-05-12 02:44:12,289 > [virus.py][solve][95]: x: 2, y: 3
+[DEBUG|virus.py:63] 2019-05-12 02:44:12,290 > [virus.py][solve][95]: x: 1, y: 5
+[DEBUG|virus.py:63] 2019-05-12 02:44:12,291 > [virus.py][solve][95]: x: 5, y: 2
+[DEBUG|virus.py:63] 2019-05-12 02:44:12,292 > [virus.py][solve][95]: x: 5, y: 6
+[DEBUG|virus.py:63] 2019-05-12 02:44:12,293 > [virus.py][solve][95]: x: 4, y: 7
+[DEBUG|virus.py:63] 2019-05-12 02:44:12,295 > [virus.py][printMap][121]: [0, 1, 0, 0, 1, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:44:12,296 > [virus.py][printMap][121]: [1, 0, 1, 0, 1, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:44:12,298 > [virus.py][printMap][121]: [0, 1, 0, 0, 0, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:44:12,300 > [virus.py][printMap][121]: [0, 0, 0, 0, 0, 0, 1]
+[DEBUG|virus.py:63] 2019-05-12 02:44:12,301 > [virus.py][printMap][121]: [1, 1, 0, 0, 0, 1, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:44:12,304 > [virus.py][printMap][121]: [0, 0, 0, 0, 1, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:44:12,305 > [virus.py][printMap][121]: [0, 0, 0, 1, 0, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:44:12,308 > [virus.py][printMap][121]: [0, 0, 0, 0, 0, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:44:12,309 > [virus.py][checkVirus][108]: Called Point: 1
+[DEBUG|virus.py:63] 2019-05-12 02:44:12,310 > [virus.py][checkVirus][112]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:63] 2019-05-12 02:44:12,312 > [virus.py][checkVirus][108]: Called Point: 2
+[DEBUG|virus.py:63] 2019-05-12 02:44:12,320 > [virus.py][checkVirus][112]: startPoint: 2, checkPoint: 3
+[DEBUG|virus.py:63] 2019-05-12 02:44:12,321 > [virus.py][checkVirus][108]: Called Point: 3
+[DEBUG|virus.py:63] 2019-05-12 02:44:12,323 > [virus.py][checkVirus][112]: startPoint: 2, checkPoint: 5
+[DEBUG|virus.py:63] 2019-05-12 02:44:12,325 > [virus.py][checkVirus][108]: Called Point: 5
+[DEBUG|virus.py:63] 2019-05-12 02:44:12,327 > [virus.py][checkVirus][112]: startPoint: 5, checkPoint: 6
+[DEBUG|virus.py:63] 2019-05-12 02:44:12,329 > [virus.py][checkVirus][108]: Called Point: 6
+[DEBUG|virus.py:63] 2019-05-12 02:44:12,333 > [virus.py][checkVirus][112]: startPoint: 1, checkPoint: 5
+[DEBUG|virus.py:63] 2019-05-12 02:44:12,334 > [virus.py][checkVirus][108]: Called Point: 5
+[DEBUG|virus.py:63] 2019-05-12 02:44:12,336 > [virus.py][checkVirus][112]: startPoint: 5, checkPoint: 6
+[DEBUG|virus.py:63] 2019-05-12 02:44:12,338 > [virus.py][checkVirus][108]: Called Point: 6
+[DEBUG|virus.py:63] 2019-05-12 02:44:12,340 > [virus.py][printMap][121]: [0, 1, 1, 0, 1, 1, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:44:47,839 > [virus.py][solve][83]: argFile: input.txt
+[DEBUG|virus.py:63] 2019-05-12 02:44:47,867 > [virus.py][parseInput][170]: 1 2
+[DEBUG|virus.py:63] 2019-05-12 02:44:47,869 > [virus.py][parseInput][170]: 2 3
+[DEBUG|virus.py:63] 2019-05-12 02:44:47,870 > [virus.py][parseInput][170]: 1 5
+[DEBUG|virus.py:63] 2019-05-12 02:44:47,871 > [virus.py][parseInput][170]: 5 2
+[DEBUG|virus.py:63] 2019-05-12 02:44:47,872 > [virus.py][parseInput][170]: 5 6
+[DEBUG|virus.py:63] 2019-05-12 02:44:47,874 > [virus.py][parseInput][170]: 4 7
+[DEBUG|virus.py:63] 2019-05-12 02:44:47,875 > [virus.py][solve][95]: x: 1, y: 2
+[DEBUG|virus.py:63] 2019-05-12 02:44:47,877 > [virus.py][solve][95]: x: 2, y: 3
+[DEBUG|virus.py:63] 2019-05-12 02:44:47,878 > [virus.py][solve][95]: x: 1, y: 5
+[DEBUG|virus.py:63] 2019-05-12 02:44:47,879 > [virus.py][solve][95]: x: 5, y: 2
+[DEBUG|virus.py:63] 2019-05-12 02:44:47,880 > [virus.py][solve][95]: x: 5, y: 6
+[DEBUG|virus.py:63] 2019-05-12 02:44:47,881 > [virus.py][solve][95]: x: 4, y: 7
+[DEBUG|virus.py:63] 2019-05-12 02:44:47,883 > [virus.py][printMap][121]: [0, 1, 0, 0, 1, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:44:47,884 > [virus.py][printMap][121]: [1, 0, 1, 0, 1, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:44:47,885 > [virus.py][printMap][121]: [0, 1, 0, 0, 0, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:44:47,888 > [virus.py][printMap][121]: [0, 0, 0, 0, 0, 0, 1]
+[DEBUG|virus.py:63] 2019-05-12 02:44:47,890 > [virus.py][printMap][121]: [1, 1, 0, 0, 0, 1, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:44:47,896 > [virus.py][printMap][121]: [0, 0, 0, 0, 1, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:44:47,898 > [virus.py][printMap][121]: [0, 0, 0, 1, 0, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:44:47,899 > [virus.py][printMap][121]: 0
+[DEBUG|virus.py:63] 2019-05-12 02:44:47,901 > [virus.py][checkVirus][108]: Called Point: 1
+[DEBUG|virus.py:63] 2019-05-12 02:44:47,902 > [virus.py][checkVirus][112]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:63] 2019-05-12 02:45:01,518 > [virus.py][solve][83]: argFile: input.txt
+[DEBUG|virus.py:63] 2019-05-12 02:45:01,520 > [virus.py][parseInput][170]: 1 2
+[DEBUG|virus.py:63] 2019-05-12 02:45:01,522 > [virus.py][parseInput][170]: 2 3
+[DEBUG|virus.py:63] 2019-05-12 02:45:01,523 > [virus.py][parseInput][170]: 1 5
+[DEBUG|virus.py:63] 2019-05-12 02:45:01,578 > [virus.py][parseInput][170]: 5 2
+[DEBUG|virus.py:63] 2019-05-12 02:45:01,580 > [virus.py][parseInput][170]: 5 6
+[DEBUG|virus.py:63] 2019-05-12 02:45:01,582 > [virus.py][parseInput][170]: 4 7
+[DEBUG|virus.py:63] 2019-05-12 02:45:01,584 > [virus.py][solve][95]: x: 1, y: 2
+[DEBUG|virus.py:63] 2019-05-12 02:45:01,585 > [virus.py][solve][95]: x: 2, y: 3
+[DEBUG|virus.py:63] 2019-05-12 02:45:01,586 > [virus.py][solve][95]: x: 1, y: 5
+[DEBUG|virus.py:63] 2019-05-12 02:45:01,588 > [virus.py][solve][95]: x: 5, y: 2
+[DEBUG|virus.py:63] 2019-05-12 02:45:01,589 > [virus.py][solve][95]: x: 5, y: 6
+[DEBUG|virus.py:63] 2019-05-12 02:45:01,590 > [virus.py][solve][95]: x: 4, y: 7
+[DEBUG|virus.py:63] 2019-05-12 02:45:01,591 > [virus.py][printMap][121]: [0, 1, 0, 0, 1, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:45:01,594 > [virus.py][printMap][121]: [1, 0, 1, 0, 1, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:45:01,601 > [virus.py][printMap][121]: [0, 1, 0, 0, 0, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:45:01,603 > [virus.py][printMap][121]: [0, 0, 0, 0, 0, 0, 1]
+[DEBUG|virus.py:63] 2019-05-12 02:45:01,605 > [virus.py][printMap][121]: [1, 1, 0, 0, 0, 1, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:45:01,606 > [virus.py][printMap][121]: [0, 0, 0, 0, 1, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:45:01,608 > [virus.py][printMap][121]: [0, 0, 0, 1, 0, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:45:01,609 > [virus.py][printMap][121]: 0
+[DEBUG|virus.py:63] 2019-05-12 02:45:01,611 > [virus.py][checkVirus][108]: Called Point: 1
+[DEBUG|virus.py:63] 2019-05-12 02:45:01,613 > [virus.py][checkVirus][112]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:63] 2019-05-12 02:45:27,298 > [virus.py][solve][83]: argFile: input.txt
+[DEBUG|virus.py:63] 2019-05-12 02:45:27,300 > [virus.py][parseInput][170]: 1 2
+[DEBUG|virus.py:63] 2019-05-12 02:45:27,301 > [virus.py][parseInput][170]: 2 3
+[DEBUG|virus.py:63] 2019-05-12 02:45:27,303 > [virus.py][parseInput][170]: 1 5
+[DEBUG|virus.py:63] 2019-05-12 02:45:27,305 > [virus.py][parseInput][170]: 5 2
+[DEBUG|virus.py:63] 2019-05-12 02:45:27,306 > [virus.py][parseInput][170]: 5 6
+[DEBUG|virus.py:63] 2019-05-12 02:45:27,308 > [virus.py][parseInput][170]: 4 7
+[DEBUG|virus.py:63] 2019-05-12 02:45:27,309 > [virus.py][solve][95]: x: 1, y: 2
+[DEBUG|virus.py:63] 2019-05-12 02:45:27,311 > [virus.py][solve][95]: x: 2, y: 3
+[DEBUG|virus.py:63] 2019-05-12 02:45:27,313 > [virus.py][solve][95]: x: 1, y: 5
+[DEBUG|virus.py:63] 2019-05-12 02:45:27,327 > [virus.py][solve][95]: x: 5, y: 2
+[DEBUG|virus.py:63] 2019-05-12 02:45:27,329 > [virus.py][solve][95]: x: 5, y: 6
+[DEBUG|virus.py:63] 2019-05-12 02:45:27,331 > [virus.py][solve][95]: x: 4, y: 7
+[DEBUG|virus.py:63] 2019-05-12 02:45:27,332 > [virus.py][printMap][121]: [0, 1, 0, 0, 1, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:45:27,334 > [virus.py][printMap][121]: [1, 0, 1, 0, 1, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:45:27,335 > [virus.py][printMap][121]: [0, 1, 0, 0, 0, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:45:27,337 > [virus.py][printMap][121]: [0, 0, 0, 0, 0, 0, 1]
+[DEBUG|virus.py:63] 2019-05-12 02:45:27,339 > [virus.py][printMap][121]: [1, 1, 0, 0, 0, 1, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:45:27,340 > [virus.py][printMap][121]: [0, 0, 0, 0, 1, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:45:27,342 > [virus.py][printMap][121]: [0, 0, 0, 1, 0, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:45:27,343 > [virus.py][printMap][121]: [0, 0, 0, 0, 0, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:45:27,345 > [virus.py][checkVirus][108]: Called Point: 1
+[DEBUG|virus.py:63] 2019-05-12 02:45:27,346 > [virus.py][checkVirus][112]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:63] 2019-05-12 02:45:27,348 > [virus.py][checkVirus][108]: Called Point: 2
+[DEBUG|virus.py:63] 2019-05-12 02:45:27,350 > [virus.py][checkVirus][112]: startPoint: 2, checkPoint: 3
+[DEBUG|virus.py:63] 2019-05-12 02:45:27,352 > [virus.py][checkVirus][108]: Called Point: 3
+[DEBUG|virus.py:63] 2019-05-12 02:45:27,353 > [virus.py][checkVirus][112]: startPoint: 2, checkPoint: 5
+[DEBUG|virus.py:63] 2019-05-12 02:45:27,355 > [virus.py][checkVirus][108]: Called Point: 5
+[DEBUG|virus.py:63] 2019-05-12 02:45:27,369 > [virus.py][checkVirus][112]: startPoint: 5, checkPoint: 6
+[DEBUG|virus.py:63] 2019-05-12 02:45:27,373 > [virus.py][checkVirus][108]: Called Point: 6
+[DEBUG|virus.py:63] 2019-05-12 02:45:27,375 > [virus.py][checkVirus][112]: startPoint: 1, checkPoint: 5
+[DEBUG|virus.py:63] 2019-05-12 02:45:27,377 > [virus.py][checkVirus][108]: Called Point: 5
+[DEBUG|virus.py:63] 2019-05-12 02:45:27,378 > [virus.py][checkVirus][112]: startPoint: 5, checkPoint: 6
+[DEBUG|virus.py:63] 2019-05-12 02:45:27,380 > [virus.py][checkVirus][108]: Called Point: 6
+[DEBUG|virus.py:63] 2019-05-12 02:45:27,382 > [virus.py][printMap][121]: [0, 1, 1, 0, 1, 1, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:46:11,069 > [virus.py][solve][83]: argFile: input.txt
+[DEBUG|virus.py:63] 2019-05-12 02:46:11,071 > [virus.py][parseInput][171]: 1 2
+[DEBUG|virus.py:63] 2019-05-12 02:46:11,073 > [virus.py][parseInput][171]: 2 3
+[DEBUG|virus.py:63] 2019-05-12 02:46:11,074 > [virus.py][parseInput][171]: 1 5
+[DEBUG|virus.py:63] 2019-05-12 02:46:11,075 > [virus.py][parseInput][171]: 5 2
+[DEBUG|virus.py:63] 2019-05-12 02:46:11,077 > [virus.py][parseInput][171]: 5 6
+[DEBUG|virus.py:63] 2019-05-12 02:46:11,078 > [virus.py][parseInput][171]: 4 7
+[DEBUG|virus.py:63] 2019-05-12 02:46:11,080 > [virus.py][solve][95]: x: 1, y: 2
+[DEBUG|virus.py:63] 2019-05-12 02:46:11,081 > [virus.py][solve][95]: x: 2, y: 3
+[DEBUG|virus.py:63] 2019-05-12 02:46:11,083 > [virus.py][solve][95]: x: 1, y: 5
+[DEBUG|virus.py:63] 2019-05-12 02:46:11,085 > [virus.py][solve][95]: x: 5, y: 2
+[DEBUG|virus.py:63] 2019-05-12 02:46:11,086 > [virus.py][solve][95]: x: 5, y: 6
+[DEBUG|virus.py:63] 2019-05-12 02:46:11,087 > [virus.py][solve][95]: x: 4, y: 7
+[DEBUG|virus.py:63] 2019-05-12 02:46:11,088 > [virus.py][printMap][122]: [0, 1, 0, 0, 1, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:46:11,090 > [virus.py][printMap][122]: [1, 0, 1, 0, 1, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:46:11,091 > [virus.py][printMap][122]: [0, 1, 0, 0, 0, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:46:11,093 > [virus.py][printMap][122]: [0, 0, 0, 0, 0, 0, 1]
+[DEBUG|virus.py:63] 2019-05-12 02:46:11,095 > [virus.py][printMap][122]: [1, 1, 0, 0, 0, 1, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:46:11,096 > [virus.py][printMap][122]: [0, 0, 0, 0, 1, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:46:11,098 > [virus.py][printMap][122]: [0, 0, 0, 1, 0, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:46:11,099 > [virus.py][printMap][122]: [0, 0, 0, 0, 0, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:46:11,101 > [virus.py][checkVirus][108]: Called Point: 1
+[DEBUG|virus.py:63] 2019-05-12 02:46:11,102 > [virus.py][checkVirus][112]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:63] 2019-05-12 02:46:11,103 > [virus.py][checkVirus][112]: startPoint: 1, checkPoint: 5
+[DEBUG|virus.py:63] 2019-05-12 02:46:36,323 > [virus.py][solve][83]: argFile: input.txt
+[DEBUG|virus.py:63] 2019-05-12 02:46:36,325 > [virus.py][parseInput][171]: 1 2
+[DEBUG|virus.py:63] 2019-05-12 02:46:36,326 > [virus.py][parseInput][171]: 2 3
+[DEBUG|virus.py:63] 2019-05-12 02:46:36,328 > [virus.py][parseInput][171]: 1 5
+[DEBUG|virus.py:63] 2019-05-12 02:46:36,330 > [virus.py][parseInput][171]: 5 2
+[DEBUG|virus.py:63] 2019-05-12 02:46:36,333 > [virus.py][parseInput][171]: 5 6
+[DEBUG|virus.py:63] 2019-05-12 02:46:36,335 > [virus.py][parseInput][171]: 4 7
+[DEBUG|virus.py:63] 2019-05-12 02:46:36,337 > [virus.py][solve][95]: x: 1, y: 2
+[DEBUG|virus.py:63] 2019-05-12 02:46:36,339 > [virus.py][solve][95]: x: 2, y: 3
+[DEBUG|virus.py:63] 2019-05-12 02:46:36,340 > [virus.py][solve][95]: x: 1, y: 5
+[DEBUG|virus.py:63] 2019-05-12 02:46:36,341 > [virus.py][solve][95]: x: 5, y: 2
+[DEBUG|virus.py:63] 2019-05-12 02:46:36,342 > [virus.py][solve][95]: x: 5, y: 6
+[DEBUG|virus.py:63] 2019-05-12 02:46:36,343 > [virus.py][solve][95]: x: 4, y: 7
+[DEBUG|virus.py:63] 2019-05-12 02:46:36,344 > [virus.py][printMap][122]: [0, 1, 0, 0, 1, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:46:36,346 > [virus.py][printMap][122]: [1, 0, 1, 0, 1, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:46:36,347 > [virus.py][printMap][122]: [0, 1, 0, 0, 0, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:46:36,350 > [virus.py][printMap][122]: [0, 0, 0, 0, 0, 0, 1]
+[DEBUG|virus.py:63] 2019-05-12 02:46:36,351 > [virus.py][printMap][122]: [1, 1, 0, 0, 0, 1, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:46:36,352 > [virus.py][printMap][122]: [0, 0, 0, 0, 1, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:46:36,353 > [virus.py][printMap][122]: [0, 0, 0, 1, 0, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:46:36,355 > [virus.py][printMap][122]: [0, 0, 0, 0, 0, 0, 0]
+[DEBUG|virus.py:63] 2019-05-12 02:46:36,356 > [virus.py][checkVirus][108]: Called Point: 1
+[DEBUG|virus.py:63] 2019-05-12 02:46:36,357 > [virus.py][checkVirus][112]: startPoint: 1, checkPoint: 2
+[DEBUG|virus.py:63] 2019-05-12 02:46:36,362 > [virus.py][checkVirus][108]: Called Point: 2
+[DEBUG|virus.py:63] 2019-05-12 02:46:36,363 > [virus.py][checkVirus][112]: startPoint: 2, checkPoint: 3
+[DEBUG|virus.py:63] 2019-05-12 02:46:36,365 > [virus.py][checkVirus][108]: Called Point: 3
+[DEBUG|virus.py:63] 2019-05-12 02:46:36,367 > [virus.py][checkVirus][112]: startPoint: 2, checkPoint: 5
+[DEBUG|virus.py:63] 2019-05-12 02:46:36,368 > [virus.py][checkVirus][108]: Called Point: 5
+[DEBUG|virus.py:63] 2019-05-12 02:46:36,370 > [virus.py][checkVirus][112]: startPoint: 5, checkPoint: 6
+[DEBUG|virus.py:63] 2019-05-12 02:46:36,374 > [virus.py][checkVirus][108]: Called Point: 6
+[DEBUG|virus.py:63] 2019-05-12 02:46:36,379 > [virus.py][checkVirus][112]: startPoint: 1, checkPoint: 5
+[DEBUG|virus.py:63] 2019-05-12 02:46:36,380 > [virus.py][printMap][122]: [0, 1, 1, 0, 1, 1, 0]
